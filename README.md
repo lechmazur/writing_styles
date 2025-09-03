@@ -50,7 +50,7 @@ We score what’s visible on the page. The axes summarize choices in:
 
 ---
 
-### Figure: Stylistic diversity by model (Weighted Gower)
+### Stylistic diversity by model (Weighted Gower)
 
 ![Stylistic Diversity by LLM (Weighted Gower Mean Pairwise Distance)](images/diversity_leaderboard.png)
 
@@ -70,7 +70,7 @@ This is **not** a quality grade. It complements quality by showing range.
 ---
 ## Style Results
 
-### Figure: Numeric style means (0–10)
+### Numeric style means (0–10)
 
 ![Style Fingerprints • Per-LLM Means for Numeric Style Axes (0–10)](images/style_numeric_axes_heatmap.png)
 
@@ -92,7 +92,7 @@ This is **not** a quality grade. It complements quality by showing range.
   * **Llama 4 Maverick:** consistently lower bands on many axes, narrow tonal span, minimal dialogue.
 
 ---
-### Figure: Topic domain
+### Topic domain
 
 ![Style Fingerprints • Topic Domain — Choice Proportions by LLM](images/style_enum_topic_domain_stacked.png)
 
@@ -102,7 +102,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Tense
+### Tense
 
 ![Style Fingerprints • Tense — Choice Proportions by LLM](images/style_enum_tense_stacked.png)
 
@@ -112,7 +112,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Temporal handling
+### Temporal handling
 
 ![Style Fingerprints • Temporal Handling — Choice Proportions by LLM](images/style_enum_temporal_handling_stacked.png)
 
@@ -123,7 +123,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Stakes level
+### Stakes level
 
 ![Style Fingerprints • Stakes Level — Choice Proportions by LLM](images/style_enum_stakes_level_stacked.png)
 
@@ -133,7 +133,7 @@ This is **not** a quality grade. It complements quality by showing range.
 * **Takeaway:** despite stylistic differences, models converge on **existential–moral** frames under these prompts.
 
 ---
-### Figure: Setting time
+### Setting time
 
 ![Style Fingerprints • Setting Time — Choice Proportions by LLM](images/style_enum_setting_time_stacked.png)
 
@@ -144,7 +144,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Setting space
+### Setting space
 
 ![Style Fingerprints • Setting Space — Choice Proportions by LLM](images/style_enum_setting_space_stacked.png)
 
@@ -154,7 +154,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Sentence form preference
+### Sentence form preference
 
 ![Style Fingerprints • Sentence Form Preference — Choice Proportions by LLM](images/style_enum_sentence_form_preference_stacked.png)
 
@@ -165,7 +165,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Sensory bias
+### Sensory bias
 
 ![Style Fingerprints • Sensory Bias — Choice Proportions by LLM](images/style_enum_sensory_bias_stacked.png)
 
@@ -175,7 +175,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Rhetorical stance
+### Rhetorical stance
 
 ![Style Fingerprints • Rhetorical Stance — Choice Proportions by LLM](images/style_enum_rhetorical_stance_stacked.png)
 
@@ -185,7 +185,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Register level
+### Register level
 
 ![Style Fingerprints • Register Level — Choice Proportions by LLM](images/style_enum_register_level_stacked.png)
 
@@ -195,7 +195,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Prompt dependency
+### Prompt dependency
 
 ![Style Fingerprints • Prompt Dependency — Choice Proportions by LLM](images/style_enum_prompt_dependency_stacked.png)
 
@@ -206,7 +206,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: POV scope
+### POV scope
 
 ![Style Fingerprints • Pov Scope — Choice Proportions by LLM](images/style_enum_pov_scope_stacked.png)
 
@@ -216,7 +216,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: POV person
+### POV person
 
 ![Style Fingerprints • Pov Person — Choice Proportions by LLM](images/style_enum_pov_person_stacked.png)
 
@@ -227,7 +227,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Narrator reliability
+### Narrator reliability
 
 ![Style Fingerprints • Narrator Reliability — Choice Proportions by LLM](images/style_enum_narrator_reliability_stacked.png)
 
@@ -237,7 +237,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Narrative modality
+### Narrative modality
 
 ![Style Fingerprints • Narrative Modality — Choice Proportions by LLM](images/style_enum_narrative_modality_stacked.png)
 
@@ -248,7 +248,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Narrative drive
+### Narrative drive
 
 ![Style Fingerprints • Narrative Drive — Choice Proportions by LLM](images/style_enum_narrative_drive_stacked.png)
 
@@ -259,7 +259,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Motif strategy
+### Motif strategy
 
 ![Style Fingerprints • Motif Strategy — Choice Proportions by LLM](images/style_enum_motif_strategy_stacked.png)
 
@@ -270,7 +270,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Metafictional devices
+### Metafictional devices
 
 ![Style Fingerprints • Metafictional Devices — Choice Proportions by LLM](images/style_enum_metafictional_devices_stacked.png)
 
@@ -281,7 +281,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Language mix
+### Language mix
 
 ![Style Fingerprints • Language Mix — Choice Proportions by LLM](images/style_enum_language_mix_stacked.png)
 
@@ -291,7 +291,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Genre family
+### Genre family
 
 ![Style Fingerprints • Genre Family — Choice Proportions by LLM](images/style_enum_genre_family_stacked.png)
 
@@ -302,7 +302,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Free indirect presence
+### Free indirect presence
 
 ![Style Fingerprints • Free Indirect Presence — Choice Proportions by LLM](images/style_enum_free_indirect_presence_stacked.png)
 
@@ -312,7 +312,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Exposition strategy
+### Exposition strategy
 
 ![Style Fingerprints • Exposition Strategy — Choice Proportions by LLM](images/style_enum_exposition_strategy_stacked.png)
 
@@ -322,7 +322,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Ending valence
+### Ending valence
 
 ![Style Fingerprints • Ending Valence — Choice Proportions by LLM](images/style_enum_ending_valence_stacked.png)
 
@@ -333,7 +333,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Dialogue markup
+### Dialogue markup
 
 ![Style Fingerprints • Dialogue Markup — Choice Proportions by LLM](images/style_enum_dialogue_markup_stacked.png)
 
@@ -344,7 +344,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Conflict type
+### Conflict type
 
 ![Style Fingerprints • Conflict Type — Choice Proportions by LLM](images/style_enum_conflict_type_stacked.png)
 
@@ -355,7 +355,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Closure form
+### Closure form
 
 ![Style Fingerprints • Closure Form — Choice Proportions by LLM](images/style_enum_closure_form_stacked.png)
 
@@ -366,7 +366,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Cast size
+### Cast size
 
 ![Style Fingerprints • Cast Size — Choice Proportions by LLM](images/style_enum_cast_size_stacked.png)
 
@@ -376,7 +376,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Style numeric axes — correlations (per-LLM means)
+### Style numeric axes — correlations (per-LLM means)
 
 ![Style Numeric Axes • Pearson Correlations (Per-LLM Means)](images/style_numeric_axis_correlation.png)
 
