@@ -47,7 +47,7 @@ We score what’s visible on the page. The axes summarize choices in:
 
 ### Figure: Stylistic diversity by model (Weighted Gower)
 
-![Stylistic Diversity by LLM (Weighted Gower Mean Pairwise Distance)](diversity_leaderboard.png)
+![Stylistic Diversity by LLM (Weighted Gower Mean Pairwise Distance)](images/diversity_leaderboard.png)
 
 * **Clear leader:** GPT-5 (medium reasoning) shows the widest within-model range (0.222). GLM-4.5 (0.207) and Claude Opus 4.1 (0.205) form the next tier, with Kimi K2, Qwen 3 25-07 Think, Gemini 2.5 Pro, o3-pro, Ernie 4.5, Grok 4, and Mistral 3.1 clustered close behind.&#x20;
 * **Low-range models:** GPT-OSS-120B (0.174), Cohere Command A (0.180), and Llama 4 Maverick (0.185) show the narrowest spread of styles.&#x20;
@@ -67,7 +67,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 ### Figure: Numeric style means (0–10)
 
-![Style Fingerprints • Per-LLM Means for Numeric Style Axes (0–10)](style_numeric_axes_heatmap.png)
+![Style Fingerprints • Per-LLM Means for Numeric Style Axes (0–10)](images/style_numeric_axes_heatmap.png)
 
 * **High-style cluster.** GPT-5, o3-pro, Kimi K2, and Mistral 3.1 score strongly across voice, rhythm, syntax, imagery, and tone. GPT-5 peaks on voice and imagery and shows the deepest POV access.
 * **Paragraphing split.** GPT-OSS-120B is a clear outlier with very low paragraphing/lineation, suggesting blocky pages. Mistral 3.1 leads this axis, with o3-pro and GPT-5 also using varied paragraphing.
@@ -88,7 +88,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 ### Figure: Topic domain — choice proportions by model
 
-![Style Fingerprints • Topic Domain — Choice Proportions by LLM](style_enum_topic_domain_stacked.png)
+![Style Fingerprints • Topic Domain — Choice Proportions by LLM](images/style_enum_topic_domain_stacked.png)
 
 * **Existential dominates** across models; **Memory** is the clear second. **War** and **Crime** are negligible.
 * **Work tilt** appears most for GPT-5 and Mistral 3.1; Llama 4 Maverick and Cohere Command A lean most existential.
@@ -97,7 +97,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 ### Figure: Tense — choice proportions by model
 
-![Style Fingerprints • Tense — Choice Proportions by LLM](style_enum_tense_stacked.png)
+![Style Fingerprints • Tense — Choice Proportions by LLM](images/style_enum_tense_stacked.png)
 
 * **Past tense dominates** almost universally; most models are ≈100% past.
 * **GPT-5 is the exception,** with a substantial share of **present** and some **mixed** usage—consistent with its higher experimentation/tonal range.
@@ -106,7 +106,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 ### Figure: Temporal handling — choice proportions by model
 
-![Style Fingerprints • Temporal Handling — Choice Proportions by LLM](style_enum_temporal_handling_stacked.png)
+![Style Fingerprints • Temporal Handling — Choice Proportions by LLM](images/style_enum_temporal_handling_stacked.png)
 
 * **Linear dominates** across the board (≈90–99%).
 * **Selective nonlinearity:** GPT-5, Kimi K2, Claude Opus 4.1, and Grok 4 use the most **flashback**—still only single-digit shares.
@@ -116,7 +116,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 ### Figure: Stakes level — choice proportions by model
 
-![Style Fingerprints • Stakes Level — Choice Proportions by LLM](style_enum_stakes_level_stacked.png)
+![Style Fingerprints • Stakes Level — Choice Proportions by LLM](images/style_enum_stakes_level_stacked.png)
 
 * **Existential stakes dominate** for every model; most bars are two-thirds or more existential.
 * **Moral stakes** are the steady #2 band, with moderate variation across models.
@@ -125,7 +125,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 ### Figure: Setting time — choice proportions by model
 
-![Style Fingerprints • Setting Time — Choice Proportions by LLM](style_enum_setting_time_stacked.png)
+![Style Fingerprints • Setting Time — Choice Proportions by LLM](images/style_enum_setting_time_stacked.png)
 
 * **Timeless dominates** across models, often the majority of settings; **Future** is the main alternative.
 * **Near-past/historical** are almost absent for everyone.
@@ -135,7 +135,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 ### Figure: Setting space — choice proportions by model
 
-![Style Fingerprints • Setting Space — Choice Proportions by LLM](style_enum_setting_space_stacked.png)
+![Style Fingerprints • Setting Space — Choice Proportions by LLM](images/style_enum_setting_space_stacked.png)
 
 * **Abstract dominates** across models; Llama 4 Maverick and GPT-OSS-120B are the most abstract, while Grok 4 and Mistral 3.1 lean a bit less so.
 * **Rural vs. Workplace trade-off:** Grok 4, Mistral 3.1, and DeepSeek V3.1 Non-Think use more **Rural**; Qwen 3 235B and Claude Opus 4.1 shift that share into **Workplace**.
@@ -144,7 +144,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 ### Figure: Sentence form preference — choice proportions by model
 
-![Style Fingerprints • Sentence Form Preference — Choice Proportions by LLM](style_enum_sentence_form_preference_stacked.png)
+![Style Fingerprints • Sentence Form Preference — Choice Proportions by LLM](images/style_enum_sentence_form_preference_stacked.png)
 
 * **Balanced dominates** for most models; Mistral 3.1 is almost entirely balanced, with Claude Opus 4.1, Baidu Ernie 4.5, o3-pro, and GPT-5 close behind.
 * **Hypotaxis outliers:** GPT-OSS-120B (\~70%), Qwen 3 235B (25-07 Think) and Llama 4 Maverick (\~60%), plus Grok 4 (>50%), favor subordinating structures.
@@ -154,7 +154,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 ### Figure: Sensory bias — choice proportions by model
 
-![Style Fingerprints • Sensory Bias — Choice Proportions by LLM](style_enum_sensory_bias_stacked.png)
+![Style Fingerprints • Sensory Bias — Choice Proportions by LLM](images/style_enum_sensory_bias_stacked.png)
 
 * **Visual leads** for nearly every model; **GLM-4.5** and **Llama 4 Maverick** are the most sight-driven.
 * **Mixed palettes** stand out for **GPT-5** and **Mistral 3.1**, which rely less on a single channel.
@@ -163,7 +163,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 ### Figure: Rhetorical stance — choice proportions by model
 
-![Style Fingerprints • Rhetorical Stance — Choice Proportions by LLM](style_enum_rhetorical_stance_stacked.png)
+![Style Fingerprints • Rhetorical Stance — Choice Proportions by LLM](images/style_enum_rhetorical_stance_stacked.png)
 
 * **Near-uniformly Earnest.** All models default to an earnest narrative posture, essentially 100% of outputs.
 * **Other stances are negligible.** Ironic, detached, and ambiguous show only trace slices.
@@ -172,7 +172,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 ### Figure: Register level — choice proportions by model
 
-![Style Fingerprints • Register Level — Choice Proportions by LLM](style_enum_register_level_stacked.png)
+![Style Fingerprints • Register Level — Choice Proportions by LLM](images/style_enum_register_level_stacked.png)
 
 * **High register dominates** across all models, effectively the default narrative voice.
 * **Neutral/Mixed are rare** and appear only as thin bands; **Colloquial** is almost absent.
@@ -181,7 +181,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 ### Figure: Prompt dependency — choice proportions by model
 
-![Style Fingerprints • Prompt Dependency — Choice Proportions by LLM](style_enum_prompt_dependency_stacked.png)
+![Style Fingerprints • Prompt Dependency — Choice Proportions by LLM](images/style_enum_prompt_dependency_stacked.png)
 
 * **High dependency dominates.** Most models lean heavily on the required elements; **Llama 4 Maverick** is effectively all **High**.
 * **More independent content:** **GPT-5** and **o3-pro** skew **Medium**, suggesting they add more material beyond the required elements; Mistral 3.1, Kimi K2, and Claude Opus 4.1 also show larger Medium bands.
@@ -200,7 +200,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 ### Figure: POV person — choice proportions by model
 
-![Style Fingerprints • Pov Person — Choice Proportions by LLM](style_enum_pov_person_stacked.png)
+![Style Fingerprints • Pov Person — Choice Proportions by LLM](images/style_enum_pov_person_stacked.png)
 
 * **Close third dominates** for nearly every model.
 * **GPT-5 is the outlier,** favoring **first person** most of the time (large majority). o3-pro shows a smaller but noticeable first-person share.
@@ -210,7 +210,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 ### Figure: Narrator reliability — choice proportions by model
 
-![Style Fingerprints • Narrator Reliability — Choice Proportions by LLM](style_enum_narrator_reliability_stacked.png)
+![Style Fingerprints • Narrator Reliability — Choice Proportions by LLM](images/style_enum_narrator_reliability_stacked.png)
 
 * **Reliable dominates** almost entirely for every model; *unreliable* narration is effectively absent.
 * **Small ambiguity only**: GPT-5 shows the largest *ambiguous* slice, with a smaller one for o3-pro; others are near-zero.
@@ -219,7 +219,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 ### Figure: Narrative modality — choice proportions by model
 
-![Style Fingerprints • Narrative Modality — Choice Proportions by LLM](style_enum_narrative_modality_stacked.png)
+![Style Fingerprints • Narrative Modality — Choice Proportions by LLM](images/style_enum_narrative_modality_stacked.png)
 
 * **Balanced is the default** for most models, with small scenic slices.
 * **Reflective-heavy outlier:** **Llama 4 Maverick** is overwhelmingly reflective, far above peers. A secondary reflective cluster includes **GLM-4.5, GPT-OSS-120B, Cohere Command A, GPT-5,** and **Claude Opus 4.1**.
@@ -229,7 +229,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 ### Figure: Narrative drive — choice proportions by model
 
-![Style Fingerprints • Narrative Drive — Choice Proportions by LLM](style_enum_narrative_drive_stacked.png)
+![Style Fingerprints • Narrative Drive — Choice Proportions by LLM](images/style_enum_narrative_drive_stacked.png)
 
 * **Idea-driven is the baseline** across models; plot makes only small contributions.
 * **Voice-led outliers:** **GPT-5** (and to a lesser extent **Llama 4 Maverick**) show unusually large *voice*-driven slices.
@@ -239,7 +239,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 ### Figure: Motif strategy — choice proportions by model
 
-![Style Fingerprints • Motif Strategy — Choice Proportions by LLM](style_enum_motif_strategy_stacked.png)
+![Style Fingerprints • Motif Strategy — Choice Proportions by LLM](images/style_enum_motif_strategy_stacked.png)
 
 * **Two-strategy world:** models almost always use **Threaded** or **Transforming** motifs; **None/Reprise** are negligible.
 * **Transforming-heavy:** **Kimi K2** is essentially all transforming; **Llama 4 Maverick, o3-pro,** and **Mistral 3.1** are close behind.
@@ -249,7 +249,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 ### Figure: Metafictional devices — choice proportions by model
 
-![Style Fingerprints • Metafictional Devices — Choice Proportions by LLM](style_enum_metafictional_devices_stacked.png)
+![Style Fingerprints • Metafictional Devices — Choice Proportions by LLM](images/style_enum_metafictional_devices_stacked.png)
 
 * **Absent dominates** for every model, typically >90%.
 * **Incidental only**: small cameo-level self-reference appears for GPT-5, Kimi K2, o3-pro, and Claude Opus 4.1; it tapers off in others.
@@ -259,7 +259,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 ### Figure: Language mix — choice proportions by model
 
-![Style Fingerprints • Language Mix — Choice Proportions by LLM](style_enum_language_mix_stacked.png)
+![Style Fingerprints • Language Mix — Choice Proportions by LLM](images/style_enum_language_mix_stacked.png)
 
 * **Monolingual dominates** across the board; most models are ≳95% single-language.
 * **Occasional code-switches** appear mainly for GLM-4.5 and Claude Opus 4.1, with small traces for DeepSeek and Qwen; others are negligible.
@@ -268,7 +268,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 ### Figure: Genre family — choice proportions by model
 
-![Style Fingerprints • Genre Family — Choice Proportions by LLM](style_enum_genre_family_stacked.png)
+![Style Fingerprints • Genre Family — Choice Proportions by LLM](images/style_enum_genre_family_stacked.png)
 
 * **Speculative dominates** most models. The strongest tilts appear for **GPT-OSS-120B, Kimi K2, o3-pro,** and **GPT-5**.
 * **Largest literary bands** show up for **Qwen 3 235B (25-07 Think)** and **DeepSeek V3.1 (both variants)**; they keep the most balance between Literary and Speculative.
@@ -278,7 +278,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 ### Figure: Free indirect presence — choice proportions by model
 
-![Style Fingerprints • Free Indirect Presence — Choice Proportions by LLM](style_enum_free_indirect_presence_stacked.png)
+![Style Fingerprints • Free Indirect Presence — Choice Proportions by LLM](images/style_enum_free_indirect_presence_stacked.png)
 
 * **Incidental dominates.** Most models touch free indirect style briefly; **sustained** use is rare (a visible slice only for **Mistral 3.1**, with tiny traces for a few others).
 * **GPT-5 largely avoids FID** (mostly **Absent**), which fits its strong **first-person** preference. **Llama 4 Maverick, GPT-OSS-120B, o3-pro,** and **Kimi K2** show more incidental FID.
@@ -287,7 +287,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 ### Figure: Exposition strategy — choice proportions by model
 
-![Style Fingerprints • Exposition Strategy — Choice Proportions by LLM](style_enum_exposition_strategy_stacked.png)
+![Style Fingerprints • Exposition Strategy — Choice Proportions by LLM](images/style_enum_exposition_strategy_stacked.png)
 
 * **Distributed exposition is near-universal**—virtually every model parcels context through the scene rather than front-loading.
 * **Minimal/front-loaded** appear only as thin bands (most visibly for GPT-OSS-120B, Llama 4 Maverick, and Kimi K2); **withheld** is negligible.
@@ -296,7 +296,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 ### Figure: Ending valence — choice proportions by model
 
-![Style Fingerprints • Ending Valence — Choice Proportions by LLM](style_enum_ending_valence_stacked.png)
+![Style Fingerprints • Ending Valence — Choice Proportions by LLM](images/style_enum_ending_valence_stacked.png)
 
 * **Positive dominates** for every model; **GPT-OSS-120B** and **Cohere Command A** are almost entirely positive, with **Llama 4 Maverick** and **DeepSeek Reasoner** close behind.
 * **Ambiguous endings** cluster on the left: **Mistral 3.1**, **Gemini 2.5 Pro**, and **Kimi K2** show the largest ambiguous shares. Most others are only small slivers.
@@ -306,7 +306,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 ### Figure: Dialogue markup — choice proportions by model
 
-![Style Fingerprints • Dialogue Markup — Choice Proportions by LLM](style_enum_dialogue_markup_stacked.png)
+![Style Fingerprints • Dialogue Markup — Choice Proportions by LLM](images/style_enum_dialogue_markup_stacked.png)
 
 * **Minimal attribution dominates** for nearly all models; tag-only dialogue is rare.
 * **Beat-heavy users:** Kimi K2, GLM-4.5, and Mistral 3.1 show the largest beat shares.
@@ -316,7 +316,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 ### Figure: Conflict type — choice proportions by model
 
-![Style Fingerprints • Conflict Type — Choice Proportions by LLM](style_enum_conflict_type_stacked.png)
+![Style Fingerprints • Conflict Type — Choice Proportions by LLM](images/style_enum_conflict_type_stacked.png)
 
 * **Internal conflict dominates** for every model; several (Kimi K2, Cohere Command A, Llama 4 Maverick) approach \~85–90%.
 * **Societal** is the main secondary band; **environmental** and **interpersonal** stay small across the board.
@@ -326,7 +326,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 ### Figure: Closure form — choice proportions by model
 
-![Style Fingerprints • Closure Form — Choice Proportions by LLM](style_enum_closure_form_stacked.png)
+![Style Fingerprints • Closure Form — Choice Proportions by LLM](images/style_enum_closure_form_stacked.png)
 
 * **Resonant is the default** across all models; most endings resolve by reweighting meaning rather than a decisive act.
 * **Decisive outliers:** Grok 4, GLM-4.5, Gemini 2.5 Pro, GPT-OSS-120B, and both DeepSeek variants show the largest decisive slices.
@@ -336,7 +336,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 ### Figure: Cast size — choice proportions by model
 
-![Style Fingerprints • Cast Size — Choice Proportions by LLM](style_enum_cast_size_stacked.png)
+![Style Fingerprints • Cast Size — Choice Proportions by LLM](images/style_enum_cast_size_stacked.png)
 
 * **Solo dominates** for most models. It’s highest for **Llama 4 Maverick** and **GPT-OSS-120B**, and comparatively lowest for **GPT-5**.
 * **Duo** is the main secondary option for **GPT-5, o3-pro, Kimi K2,** and **Claude Opus 4.1**, but is minor for many others.
@@ -345,7 +345,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 ### Figure: Style numeric axes — correlations (per-LLM means)
 
-![Style Numeric Axes • Pearson Correlations (Per-LLM Means)](style_numeric_axis_correlation.png)
+![Style Numeric Axes • Pearson Correlations (Per-LLM Means)](images/style_numeric_axis_correlation.png)
 
 * **Craft cluster moves together.** *Voice style*, *imagery density*, *rhythm*, *tone*, and *concreteness* are tightly linked (e.g., voice–imagery ≈ 1.00; voice–rhythm ≈ 0.96). Models that elevate one of these usually elevate the others.
 * **Paragraphing ≠ sentence complexity.** *Paragraphing/lineation* has only a weak tie to *syntax complexity* (≈0.15) but tracks *dialogue subtext* (≈0.83) and *tonal span* (≈0.75), pointing to paragraphing as stagecraft rather than grammar.
