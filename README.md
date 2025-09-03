@@ -92,7 +92,7 @@ This is **not** a quality grade. It complements quality by showing range.
   * **Llama 4 Maverick:** consistently lower bands on many axes, narrow tonal span, minimal dialogue.
 
 ---
-### Figure: Topic domain — choice proportions by model
+### Figure: Topic domain
 
 ![Style Fingerprints • Topic Domain — Choice Proportions by LLM](images/style_enum_topic_domain_stacked.png)
 
@@ -102,7 +102,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Tense — choice proportions by model
+### Figure: Tense
 
 ![Style Fingerprints • Tense — Choice Proportions by LLM](images/style_enum_tense_stacked.png)
 
@@ -112,7 +112,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Temporal handling — choice proportions by model
+### Figure: Temporal handling
 
 ![Style Fingerprints • Temporal Handling — Choice Proportions by LLM](images/style_enum_temporal_handling_stacked.png)
 
@@ -123,7 +123,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Stakes level — choice proportions by model
+### Figure: Stakes level
 
 ![Style Fingerprints • Stakes Level — Choice Proportions by LLM](images/style_enum_stakes_level_stacked.png)
 
@@ -133,7 +133,7 @@ This is **not** a quality grade. It complements quality by showing range.
 * **Takeaway:** despite stylistic differences, models converge on **existential–moral** frames under these prompts.
 
 ---
-### Figure: Setting time — choice proportions by model
+### Figure: Setting time
 
 ![Style Fingerprints • Setting Time — Choice Proportions by LLM](images/style_enum_setting_time_stacked.png)
 
@@ -144,7 +144,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Setting space — choice proportions by model
+### Figure: Setting space
 
 ![Style Fingerprints • Setting Space — Choice Proportions by LLM](images/style_enum_setting_space_stacked.png)
 
@@ -154,7 +154,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Sentence form preference — choice proportions by model
+### Figure: Sentence form preference
 
 ![Style Fingerprints • Sentence Form Preference — Choice Proportions by LLM](images/style_enum_sentence_form_preference_stacked.png)
 
@@ -165,7 +165,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Sensory bias — choice proportions by model
+### Figure: Sensory bias
 
 ![Style Fingerprints • Sensory Bias — Choice Proportions by LLM](images/style_enum_sensory_bias_stacked.png)
 
@@ -175,7 +175,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Rhetorical stance — choice proportions by model
+### Figure: Rhetorical stance
 
 ![Style Fingerprints • Rhetorical Stance — Choice Proportions by LLM](images/style_enum_rhetorical_stance_stacked.png)
 
@@ -185,7 +185,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Register level — choice proportions by model
+### Figure: Register level
 
 ![Style Fingerprints • Register Level — Choice Proportions by LLM](images/style_enum_register_level_stacked.png)
 
@@ -195,7 +195,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Prompt dependency — choice proportions by model
+### Figure: Prompt dependency
 
 ![Style Fingerprints • Prompt Dependency — Choice Proportions by LLM](images/style_enum_prompt_dependency_stacked.png)
 
@@ -206,7 +206,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: POV scope — choice proportions by model
+### Figure: POV scope
 
 ![Style Fingerprints • Pov Scope — Choice Proportions by LLM](images/style_enum_pov_scope_stacked.png)
 
@@ -216,7 +216,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: POV person — choice proportions by model
+### Figure: POV person
 
 ![Style Fingerprints • Pov Person — Choice Proportions by LLM](images/style_enum_pov_person_stacked.png)
 
@@ -227,7 +227,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Narrator reliability — choice proportions by model
+### Figure: Narrator reliability
 
 ![Style Fingerprints • Narrator Reliability — Choice Proportions by LLM](images/style_enum_narrator_reliability_stacked.png)
 
@@ -237,7 +237,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Narrative modality — choice proportions by model
+### Figure: Narrative modality
 
 ![Style Fingerprints • Narrative Modality — Choice Proportions by LLM](images/style_enum_narrative_modality_stacked.png)
 
@@ -248,7 +248,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Narrative drive — choice proportions by model
+### Figure: Narrative drive
 
 ![Style Fingerprints • Narrative Drive — Choice Proportions by LLM](images/style_enum_narrative_drive_stacked.png)
 
@@ -259,7 +259,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Motif strategy — choice proportions by model
+### Figure: Motif strategy
 
 ![Style Fingerprints • Motif Strategy — Choice Proportions by LLM](images/style_enum_motif_strategy_stacked.png)
 
@@ -270,7 +270,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Metafictional devices — choice proportions by model
+### Figure: Metafictional devices
 
 ![Style Fingerprints • Metafictional Devices — Choice Proportions by LLM](images/style_enum_metafictional_devices_stacked.png)
 
@@ -281,7 +281,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Language mix — choice proportions by model
+### Figure: Language mix
 
 ![Style Fingerprints • Language Mix — Choice Proportions by LLM](images/style_enum_language_mix_stacked.png)
 
@@ -291,7 +291,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Genre family — choice proportions by model
+### Figure: Genre family
 
 ![Style Fingerprints • Genre Family — Choice Proportions by LLM](images/style_enum_genre_family_stacked.png)
 
@@ -302,7 +302,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Free indirect presence — choice proportions by model
+### Figure: Free indirect presence
 
 ![Style Fingerprints • Free Indirect Presence — Choice Proportions by LLM](images/style_enum_free_indirect_presence_stacked.png)
 
@@ -312,7 +312,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Exposition strategy — choice proportions by model
+### Figure: Exposition strategy
 
 ![Style Fingerprints • Exposition Strategy — Choice Proportions by LLM](images/style_enum_exposition_strategy_stacked.png)
 
@@ -322,7 +322,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Ending valence — choice proportions by model
+### Figure: Ending valence
 
 ![Style Fingerprints • Ending Valence — Choice Proportions by LLM](images/style_enum_ending_valence_stacked.png)
 
@@ -333,7 +333,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Dialogue markup — choice proportions by model
+### Figure: Dialogue markup
 
 ![Style Fingerprints • Dialogue Markup — Choice Proportions by LLM](images/style_enum_dialogue_markup_stacked.png)
 
@@ -344,7 +344,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Conflict type — choice proportions by model
+### Figure: Conflict type
 
 ![Style Fingerprints • Conflict Type — Choice Proportions by LLM](images/style_enum_conflict_type_stacked.png)
 
@@ -355,7 +355,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Closure form — choice proportions by model
+### Figure: Closure form
 
 ![Style Fingerprints • Closure Form — Choice Proportions by LLM](images/style_enum_closure_form_stacked.png)
 
@@ -366,7 +366,7 @@ This is **not** a quality grade. It complements quality by showing range.
 
 
 ---
-### Figure: Cast size — choice proportions by model
+### Figure: Cast size
 
 ![Style Fingerprints • Cast Size — Choice Proportions by LLM](images/style_enum_cast_size_stacked.png)
 
