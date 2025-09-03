@@ -31,6 +31,18 @@ All results reflect models under a neutral, minimally directive prompt; targeted
 
 
 ---
+
+## Stylistic diversity by model (Weighted Gower)
+
+![Stylistic Diversity by LLM (Weighted Gower Mean Pairwise Distance)](images/diversity_leaderboard_dot.png)
+
+* **Clear leader:** GPT-5 (medium reasoning) shows the widest within-model range (0.222). GLM-4.5 (0.207) and Claude Opus 4.1 (0.205) form the next tier, with Kimi K2, Qwen 3 25-07 Think, Gemini 2.5 Pro, o3-pro, Ernie 4.5, Grok 4, and Mistral 3.1 clustered close behind.&#x20;
+* **Low-range models:** GPT-OSS-120B (0.174), Cohere Command A (0.180), and Llama 4 Maverick (0.185) show the narrowest spread of styles.&#x20;
+* **Tight field overall:** the spread from lowest to highest is \~0.048, so most models vary by a similar amount; GPT-5 is the notable outlier for range.
+* **Consistency with fingerprints:** lower-diversity models align with earlier fingerprints that showed more uniform paragraphing, stance, and dialogue choices, while high-diversity models also tended to vary tense, POV person, and experimentation.
+
+
+---
 ## LLM Diversity Leaderboard (Weighted Gower mean pairwise distance)
 | Rank | LLM                    | Diversity Score |
 |-----:|------------------------|----------------:|
@@ -50,16 +62,6 @@ All results reflect models under a neutral, minimally directive prompt; targeted
 | 14 | Cohere Command A | 0.180 |
 | 15 | GPT-OSS-120B | 0.174 |
 
----
-
-### Stylistic diversity by model (Weighted Gower)
-
-![Stylistic Diversity by LLM (Weighted Gower Mean Pairwise Distance)](images/diversity_leaderboard.png)
-
-* **Clear leader:** GPT-5 (medium reasoning) shows the widest within-model range (0.222). GLM-4.5 (0.207) and Claude Opus 4.1 (0.205) form the next tier, with Kimi K2, Qwen 3 25-07 Think, Gemini 2.5 Pro, o3-pro, Ernie 4.5, Grok 4, and Mistral 3.1 clustered close behind.&#x20;
-* **Low-range models:** GPT-OSS-120B (0.174), Cohere Command A (0.180), and Llama 4 Maverick (0.185) show the narrowest spread of styles.&#x20;
-* **Tight field overall:** the spread from lowest to highest is \~0.048, so most models vary by a similar amount; GPT-5 is the notable outlier for range.
-* **Consistency with fingerprints:** lower-diversity models align with earlier fingerprints that showed more uniform paragraphing, stance, and dialogue choices, while high-diversity models also tended to vary tense, POV person, and experimentation.
 
 ### How diversity is computed
 
