@@ -208,7 +208,7 @@ This is **not** a quality grade. It complements quality by showing range.
 ---
 ### Figure: POV scope — choice proportions by model
 
-![Style Fingerprints • Pov Scope — Choice Proportions by LLM](style_enum_pov_scope_stacked.png)
+![Style Fingerprints • Pov Scope — Choice Proportions by LLM](images/style_enum_pov_scope_stacked.png)
 
 * **Single-POV is the default** for essentially every model (≈95–100%).
 * **Alternating POV** appears only in small slivers; **ensemble** usage is almost nonexistent.
