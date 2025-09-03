@@ -1,6 +1,6 @@
 # Mapping LLM Style and Range in Flash Fiction
 
-This writeup documents the **style** side of the short-story Creative Writing LLM benchmark: we generated many short stories with a range of LLMs, then analyzed those stories for stylistic fingerprints and **within-model diversity**. This study focuses on how models write, how their outputs differ, and how varied each model is across its own stories.
+This writeup documents the **style** side of the short-story Creative Writing LLM benchmark: we generated many short stories (400 per each model) with a range of LLMs, then analyzed those stories for stylistic fingerprints and **within-model diversity**. This study focuses on how models write, how their outputs differ, and how varied each model is across its own stories.
 
 ---
 
