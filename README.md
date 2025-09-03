@@ -1,4 +1,4 @@
-# Flash-Fiction Default LLM Style & Diversity Study
+# Mapping LLM Style and Range in Flash Fiction
 
 This writeup documents the **style** side of the short-story Creative Writing LLM benchmark: we generated many short stories with a range of LLMs, then analyzed those stories for stylistic fingerprints and **within-model diversity**. This study focuses on how models write, how their outputs differ, and how varied each model is across its own stories.
 
@@ -26,6 +26,8 @@ We score what’s visible on the page. The axes summarize choices in:
 * **Experimentation:** degree of formal play, associative gaps, metafictional devices.
 * **Closure:** cadence and ending type.
 * **Content choices:** genre family, topic domain, time and place band, conflict frame, stakes level, cast size, realism vs. fabulism, ending valence, and how dependent the piece feels on the prompt.
+
+All results reflect models under a neutral, minimally directive prompt; targeted prompting can shift register, structure, and voice substantially, so read these style patterns as tendencies rather than fixed traits.
 
 
 ---
@@ -67,6 +69,7 @@ Diversity is a **style-range** number for each model. We compare that model’s 
 * **Lower** means the model tends to stay in a narrow lane.
 
 This is **not** a quality grade. It complements quality by showing range.
+
 ---
 ## Style Results
 
@@ -390,6 +393,7 @@ This is **not** a quality grade. It complements quality by showing range.
 * **Realism is orthogonal to closure and only moderately tied to craft.** It shows modest links to *voice* and *imagery* (≈0.65) and to *experimentation* (≈0.62), but almost none to *closure* and little to *paragraphing*.
 
 **Implication:** many surface-craft axes are collinear, while **endings, paragraphing strategy, and realism** behave more independently—useful when selecting a smaller set of levers to compare models.
+
 
 
 ---
