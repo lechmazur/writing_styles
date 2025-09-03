@@ -1,0 +1,61 @@
+LLM,LLM_Full,cat,cat_full,cat_desc,choice,prop
+gpt-5-medium,GPT-5 (medium reasoning),1,1,,Solo,0.3875
+o3-pro-medium,o3-pro (medium reasoning),1,1,,Solo,0.495
+ernie_4_5_300b_a47b,Baidu Ernie 4.5 300B A47B,15,15,,Solo,0.545
+claude-opus-4-1-20250805-0K,Claude Opus 4.1 (no reasoning),2,2,,Solo,0.5722120658135283
+mistral-medium-2508,Mistral Medium 3.1,5,5,,Solo,0.6125
+kimi-k2,Kimi K2,16,16,,Solo,0.6525
+deepseek-reasoner,DeepSeek V3.1 Reasoner,8,8,,Solo,0.6725
+deepseek-v31,DeepSeek V3.1 Non-Think,8,8,,Solo,0.675
+grok-4-0709,Grok 4,9,9,,Solo,0.7225
+gemini-2.5-pro,Gemini 2.5 Pro,4,4,,Solo,0.7425
+command-a,Cohere Command A,13,13,,Solo,0.7525
+qwen3-235b-a22b-thinking-2507,Qwen 3 235B A22B 25-07 Think,6,6,,Solo,0.7525
+glm-4-5,GLM-4.5,14,14,,Solo,0.755
+gpt-oss-120b,GPT-OSS-120B,1,1,,Solo,0.81
+llama4-maverick,Llama 4 Maverick,3,3,,Solo,0.8275
+gpt-5-medium,GPT-5 (medium reasoning),1,1,,Duo,0.315
+o3-pro-medium,o3-pro (medium reasoning),1,1,,Duo,0.345
+ernie_4_5_300b_a47b,Baidu Ernie 4.5 300B A47B,15,15,,Duo,0.325
+claude-opus-4-1-20250805-0K,Claude Opus 4.1 (no reasoning),2,2,,Duo,0.2943327239488117
+mistral-medium-2508,Mistral Medium 3.1,5,5,,Duo,0.2875
+kimi-k2,Kimi K2,16,16,,Duo,0.2425
+deepseek-reasoner,DeepSeek V3.1 Reasoner,8,8,,Duo,0.25
+deepseek-v31,DeepSeek V3.1 Non-Think,8,8,,Duo,0.2525
+grok-4-0709,Grok 4,9,9,,Duo,0.1975
+gemini-2.5-pro,Gemini 2.5 Pro,4,4,,Duo,0.1825
+command-a,Cohere Command A,13,13,,Duo,0.205
+qwen3-235b-a22b-thinking-2507,Qwen 3 235B A22B 25-07 Think,6,6,,Duo,0.1625
+glm-4-5,GLM-4.5,14,14,,Duo,0.1575
+gpt-oss-120b,GPT-OSS-120B,1,1,,Duo,0.0875
+llama4-maverick,Llama 4 Maverick,3,3,,Duo,0.145
+gpt-5-medium,GPT-5 (medium reasoning),1,1,,Small,0.265
+o3-pro-medium,o3-pro (medium reasoning),1,1,,Small,0.1425
+ernie_4_5_300b_a47b,Baidu Ernie 4.5 300B A47B,15,15,,Small,0.125
+claude-opus-4-1-20250805-0K,Claude Opus 4.1 (no reasoning),2,2,,Small,0.113345521023766
+mistral-medium-2508,Mistral Medium 3.1,5,5,,Small,0.095
+kimi-k2,Kimi K2,16,16,,Small,0.0975
+deepseek-reasoner,DeepSeek V3.1 Reasoner,8,8,,Small,0.0775
+deepseek-v31,DeepSeek V3.1 Non-Think,8,8,,Small,0.0675
+grok-4-0709,Grok 4,9,9,,Small,0.07
+gemini-2.5-pro,Gemini 2.5 Pro,4,4,,Small,0.075
+command-a,Cohere Command A,13,13,,Small,0.04
+qwen3-235b-a22b-thinking-2507,Qwen 3 235B A22B 25-07 Think,6,6,,Small,0.0825
+glm-4-5,GLM-4.5,14,14,,Small,0.08
+gpt-oss-120b,GPT-OSS-120B,1,1,,Small,0.09
+llama4-maverick,Llama 4 Maverick,3,3,,Small,0.025
+gpt-5-medium,GPT-5 (medium reasoning),1,1,,Ensemble,0.0325
+o3-pro-medium,o3-pro (medium reasoning),1,1,,Ensemble,0.0175
+ernie_4_5_300b_a47b,Baidu Ernie 4.5 300B A47B,15,15,,Ensemble,0.005
+claude-opus-4-1-20250805-0K,Claude Opus 4.1 (no reasoning),2,2,,Ensemble,0.02010968921389397
+mistral-medium-2508,Mistral Medium 3.1,5,5,,Ensemble,0.005
+kimi-k2,Kimi K2,16,16,,Ensemble,0.0075
+deepseek-reasoner,DeepSeek V3.1 Reasoner,8,8,,Ensemble,0.0
+deepseek-v31,DeepSeek V3.1 Non-Think,8,8,,Ensemble,0.005
+grok-4-0709,Grok 4,9,9,,Ensemble,0.01
+gemini-2.5-pro,Gemini 2.5 Pro,4,4,,Ensemble,0.0
+command-a,Cohere Command A,13,13,,Ensemble,0.0025
+qwen3-235b-a22b-thinking-2507,Qwen 3 235B A22B 25-07 Think,6,6,,Ensemble,0.0025
+glm-4-5,GLM-4.5,14,14,,Ensemble,0.0075
+gpt-oss-120b,GPT-OSS-120B,1,1,,Ensemble,0.0125
+llama4-maverick,Llama 4 Maverick,3,3,,Ensemble,0.0025

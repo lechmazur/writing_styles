@@ -1,0 +1,61 @@
+LLM,LLM_Full,cat,cat_full,cat_desc,choice,prop
+ernie_4_5_300b_a47b,Baidu Ernie 4.5 300B A47B,15,15,,TagHeavy,0.0
+claude-opus-4-1-20250805-0K,Claude Opus 4.1 (no reasoning),2,2,,TagHeavy,0.0018281535648994515
+mistral-medium-2508,Mistral Medium 3.1,5,5,,TagHeavy,0.0
+o3-pro-medium,o3-pro (medium reasoning),1,1,,TagHeavy,0.0025
+deepseek-v31,DeepSeek V3.1 Non-Think,8,8,,TagHeavy,0.0
+qwen3-235b-a22b-thinking-2507,Qwen 3 235B A22B 25-07 Think,6,6,,TagHeavy,0.0
+gemini-2.5-pro,Gemini 2.5 Pro,4,4,,TagHeavy,0.0
+command-a,Cohere Command A,13,13,,TagHeavy,0.0
+deepseek-reasoner,DeepSeek V3.1 Reasoner,8,8,,TagHeavy,0.0
+grok-4-0709,Grok 4,9,9,,TagHeavy,0.0
+glm-4-5,GLM-4.5,14,14,,TagHeavy,0.0025
+kimi-k2,Kimi K2,16,16,,TagHeavy,0.0
+gpt-5-medium,GPT-5 (medium reasoning),1,1,,TagHeavy,0.0025
+llama4-maverick,Llama 4 Maverick,3,3,,TagHeavy,0.0
+gpt-oss-120b,GPT-OSS-120B,1,1,,TagHeavy,0.0
+ernie_4_5_300b_a47b,Baidu Ernie 4.5 300B A47B,15,15,,BeatHeavy,0.01
+claude-opus-4-1-20250805-0K,Claude Opus 4.1 (no reasoning),2,2,,BeatHeavy,0.021937842778793418
+mistral-medium-2508,Mistral Medium 3.1,5,5,,BeatHeavy,0.0875
+o3-pro-medium,o3-pro (medium reasoning),1,1,,BeatHeavy,0.0775
+deepseek-v31,DeepSeek V3.1 Non-Think,8,8,,BeatHeavy,0.03
+qwen3-235b-a22b-thinking-2507,Qwen 3 235B A22B 25-07 Think,6,6,,BeatHeavy,0.04
+gemini-2.5-pro,Gemini 2.5 Pro,4,4,,BeatHeavy,0.015
+command-a,Cohere Command A,13,13,,BeatHeavy,0.0
+deepseek-reasoner,DeepSeek V3.1 Reasoner,8,8,,BeatHeavy,0.035
+grok-4-0709,Grok 4,9,9,,BeatHeavy,0.02
+glm-4-5,GLM-4.5,14,14,,BeatHeavy,0.0075
+kimi-k2,Kimi K2,16,16,,BeatHeavy,0.06
+gpt-5-medium,GPT-5 (medium reasoning),1,1,,BeatHeavy,0.0375
+llama4-maverick,Llama 4 Maverick,3,3,,BeatHeavy,0.0
+gpt-oss-120b,GPT-OSS-120B,1,1,,BeatHeavy,0.0
+ernie_4_5_300b_a47b,Baidu Ernie 4.5 300B A47B,15,15,,Minimal,0.565
+claude-opus-4-1-20250805-0K,Claude Opus 4.1 (no reasoning),2,2,,Minimal,0.6489945155393053
+mistral-medium-2508,Mistral Medium 3.1,5,5,,Minimal,0.7025
+o3-pro-medium,o3-pro (medium reasoning),1,1,,Minimal,0.7975
+deepseek-v31,DeepSeek V3.1 Non-Think,8,8,,Minimal,0.805
+qwen3-235b-a22b-thinking-2507,Qwen 3 235B A22B 25-07 Think,6,6,,Minimal,0.8225
+gemini-2.5-pro,Gemini 2.5 Pro,4,4,,Minimal,0.83
+command-a,Cohere Command A,13,13,,Minimal,0.8325
+deepseek-reasoner,DeepSeek V3.1 Reasoner,8,8,,Minimal,0.8325
+grok-4-0709,Grok 4,9,9,,Minimal,0.8425
+glm-4-5,GLM-4.5,14,14,,Minimal,0.8525
+kimi-k2,Kimi K2,16,16,,Minimal,0.855
+gpt-5-medium,GPT-5 (medium reasoning),1,1,,Minimal,0.8725
+llama4-maverick,Llama 4 Maverick,3,3,,Minimal,0.975
+gpt-oss-120b,GPT-OSS-120B,1,1,,Minimal,0.995
+ernie_4_5_300b_a47b,Baidu Ernie 4.5 300B A47B,15,15,,Mixed,0.425
+claude-opus-4-1-20250805-0K,Claude Opus 4.1 (no reasoning),2,2,,Mixed,0.3272394881170018
+mistral-medium-2508,Mistral Medium 3.1,5,5,,Mixed,0.21
+o3-pro-medium,o3-pro (medium reasoning),1,1,,Mixed,0.1225
+deepseek-v31,DeepSeek V3.1 Non-Think,8,8,,Mixed,0.165
+qwen3-235b-a22b-thinking-2507,Qwen 3 235B A22B 25-07 Think,6,6,,Mixed,0.1375
+gemini-2.5-pro,Gemini 2.5 Pro,4,4,,Mixed,0.155
+command-a,Cohere Command A,13,13,,Mixed,0.1675
+deepseek-reasoner,DeepSeek V3.1 Reasoner,8,8,,Mixed,0.1325
+grok-4-0709,Grok 4,9,9,,Mixed,0.1375
+glm-4-5,GLM-4.5,14,14,,Mixed,0.1375
+kimi-k2,Kimi K2,16,16,,Mixed,0.085
+gpt-5-medium,GPT-5 (medium reasoning),1,1,,Mixed,0.0875
+llama4-maverick,Llama 4 Maverick,3,3,,Mixed,0.025
+gpt-oss-120b,GPT-OSS-120B,1,1,,Mixed,0.005

@@ -1,0 +1,271 @@
+LLM,LLM_Full,cat,cat_full,cat_desc,axis,mean
+llama4-maverick,Llama 4 Maverick,3,3,,voice_style,7.045750000000001
+command-a,Cohere Command A,13,13,,voice_style,7.562749999999999
+glm-4-5,GLM-4.5,14,14,,voice_style,7.67225
+gpt-oss-120b,GPT-OSS-120B,1,1,,voice_style,8.65925
+deepseek-reasoner,DeepSeek V3.1 Reasoner,8,8,,voice_style,8.23525
+grok-4-0709,Grok 4,9,9,,voice_style,8.3225
+deepseek-v31,DeepSeek V3.1 Non-Think,8,8,,voice_style,8.24175
+qwen3-235b-a22b-thinking-2507,Qwen 3 235B A22B 25-07 Think,6,6,,voice_style,8.468
+gemini-2.5-pro,Gemini 2.5 Pro,4,4,,voice_style,8.3455
+ernie_4_5_300b_a47b,Baidu Ernie 4.5 300B A47B,15,15,,voice_style,8.1135
+claude-opus-4-1-20250805-0K,Claude Opus 4.1 (no reasoning),2,2,,voice_style,8.19762340036563
+kimi-k2,Kimi K2,16,16,,voice_style,8.982000000000001
+mistral-medium-2508,Mistral Medium 3.1,5,5,,voice_style,8.713
+o3-pro-medium,o3-pro (medium reasoning),1,1,,voice_style,8.9515
+gpt-5-medium,GPT-5 (medium reasoning),1,1,,voice_style,9.1375
+llama4-maverick,Llama 4 Maverick,3,3,,concreteness_specificity,5.27575
+command-a,Cohere Command A,13,13,,concreteness_specificity,6.25725
+glm-4-5,GLM-4.5,14,14,,concreteness_specificity,6.33775
+gpt-oss-120b,GPT-OSS-120B,1,1,,concreteness_specificity,6.9152499999999995
+deepseek-reasoner,DeepSeek V3.1 Reasoner,8,8,,concreteness_specificity,7.23375
+grok-4-0709,Grok 4,9,9,,concreteness_specificity,7.07525
+deepseek-v31,DeepSeek V3.1 Non-Think,8,8,,concreteness_specificity,7.24275
+qwen3-235b-a22b-thinking-2507,Qwen 3 235B A22B 25-07 Think,6,6,,concreteness_specificity,7.853
+gemini-2.5-pro,Gemini 2.5 Pro,4,4,,concreteness_specificity,7.473
+ernie_4_5_300b_a47b,Baidu Ernie 4.5 300B A47B,15,15,,concreteness_specificity,7.3725
+claude-opus-4-1-20250805-0K,Claude Opus 4.1 (no reasoning),2,2,,concreteness_specificity,7.242778793418648
+kimi-k2,Kimi K2,16,16,,concreteness_specificity,8.028500000000001
+mistral-medium-2508,Mistral Medium 3.1,5,5,,concreteness_specificity,7.69675
+o3-pro-medium,o3-pro (medium reasoning),1,1,,concreteness_specificity,7.93525
+gpt-5-medium,GPT-5 (medium reasoning),1,1,,concreteness_specificity,7.77725
+llama4-maverick,Llama 4 Maverick,3,3,,rhythm_syntax,5.59025
+command-a,Cohere Command A,13,13,,rhythm_syntax,6.894500000000001
+glm-4-5,GLM-4.5,14,14,,rhythm_syntax,7.0185
+gpt-oss-120b,GPT-OSS-120B,1,1,,rhythm_syntax,7.6682500000000005
+deepseek-reasoner,DeepSeek V3.1 Reasoner,8,8,,rhythm_syntax,7.58625
+grok-4-0709,Grok 4,9,9,,rhythm_syntax,7.5775
+deepseek-v31,DeepSeek V3.1 Non-Think,8,8,,rhythm_syntax,7.60875
+qwen3-235b-a22b-thinking-2507,Qwen 3 235B A22B 25-07 Think,6,6,,rhythm_syntax,7.795
+gemini-2.5-pro,Gemini 2.5 Pro,4,4,,rhythm_syntax,7.6682500000000005
+ernie_4_5_300b_a47b,Baidu Ernie 4.5 300B A47B,15,15,,rhythm_syntax,7.465
+claude-opus-4-1-20250805-0K,Claude Opus 4.1 (no reasoning),2,2,,rhythm_syntax,7.642413162705666
+kimi-k2,Kimi K2,16,16,,rhythm_syntax,8.371749999999999
+mistral-medium-2508,Mistral Medium 3.1,5,5,,rhythm_syntax,8.343
+o3-pro-medium,o3-pro (medium reasoning),1,1,,rhythm_syntax,8.3835
+gpt-5-medium,GPT-5 (medium reasoning),1,1,,rhythm_syntax,8.52975
+llama4-maverick,Llama 4 Maverick,3,3,,syntax_complexity,5.847
+command-a,Cohere Command A,13,13,,syntax_complexity,6.63875
+glm-4-5,GLM-4.5,14,14,,syntax_complexity,6.81325
+gpt-oss-120b,GPT-OSS-120B,1,1,,syntax_complexity,7.4327499999999995
+deepseek-reasoner,DeepSeek V3.1 Reasoner,8,8,,syntax_complexity,7.247999999999999
+grok-4-0709,Grok 4,9,9,,syntax_complexity,7.343500000000001
+deepseek-v31,DeepSeek V3.1 Non-Think,8,8,,syntax_complexity,7.273250000000001
+qwen3-235b-a22b-thinking-2507,Qwen 3 235B A22B 25-07 Think,6,6,,syntax_complexity,7.559500000000001
+gemini-2.5-pro,Gemini 2.5 Pro,4,4,,syntax_complexity,7.32225
+ernie_4_5_300b_a47b,Baidu Ernie 4.5 300B A47B,15,15,,syntax_complexity,6.8585
+claude-opus-4-1-20250805-0K,Claude Opus 4.1 (no reasoning),2,2,,syntax_complexity,7.080987202925046
+kimi-k2,Kimi K2,16,16,,syntax_complexity,7.7204999999999995
+mistral-medium-2508,Mistral Medium 3.1,5,5,,syntax_complexity,6.9254999999999995
+o3-pro-medium,o3-pro (medium reasoning),1,1,,syntax_complexity,7.479
+gpt-5-medium,GPT-5 (medium reasoning),1,1,,syntax_complexity,7.471
+llama4-maverick,Llama 4 Maverick,3,3,,paragraphing_lineation,4.088
+command-a,Cohere Command A,13,13,,paragraphing_lineation,4.72525
+glm-4-5,GLM-4.5,14,14,,paragraphing_lineation,5.19675
+gpt-oss-120b,GPT-OSS-120B,1,1,,paragraphing_lineation,1.5030000000000001
+deepseek-reasoner,DeepSeek V3.1 Reasoner,8,8,,paragraphing_lineation,5.4985
+grok-4-0709,Grok 4,9,9,,paragraphing_lineation,5.9415
+deepseek-v31,DeepSeek V3.1 Non-Think,8,8,,paragraphing_lineation,5.609249999999999
+qwen3-235b-a22b-thinking-2507,Qwen 3 235B A22B 25-07 Think,6,6,,paragraphing_lineation,3.31375
+gemini-2.5-pro,Gemini 2.5 Pro,4,4,,paragraphing_lineation,5.827999999999999
+ernie_4_5_300b_a47b,Baidu Ernie 4.5 300B A47B,15,15,,paragraphing_lineation,5.83425
+claude-opus-4-1-20250805-0K,Claude Opus 4.1 (no reasoning),2,2,,paragraphing_lineation,6.159049360146252
+kimi-k2,Kimi K2,16,16,,paragraphing_lineation,6.7955
+mistral-medium-2508,Mistral Medium 3.1,5,5,,paragraphing_lineation,8.30125
+o3-pro-medium,o3-pro (medium reasoning),1,1,,paragraphing_lineation,7.66
+gpt-5-medium,GPT-5 (medium reasoning),1,1,,paragraphing_lineation,7.17625
+llama4-maverick,Llama 4 Maverick,3,3,,pov_distance,5.73375
+command-a,Cohere Command A,13,13,,pov_distance,6.181749999999999
+glm-4-5,GLM-4.5,14,14,,pov_distance,5.94375
+gpt-oss-120b,GPT-OSS-120B,1,1,,pov_distance,5.836749999999999
+deepseek-reasoner,DeepSeek V3.1 Reasoner,8,8,,pov_distance,6.289
+grok-4-0709,Grok 4,9,9,,pov_distance,6.0495
+deepseek-v31,DeepSeek V3.1 Non-Think,8,8,,pov_distance,6.268
+qwen3-235b-a22b-thinking-2507,Qwen 3 235B A22B 25-07 Think,6,6,,pov_distance,6.729500000000001
+gemini-2.5-pro,Gemini 2.5 Pro,4,4,,pov_distance,6.48125
+ernie_4_5_300b_a47b,Baidu Ernie 4.5 300B A47B,15,15,,pov_distance,6.3854999999999995
+claude-opus-4-1-20250805-0K,Claude Opus 4.1 (no reasoning),2,2,,pov_distance,6.239488117001828
+kimi-k2,Kimi K2,16,16,,pov_distance,6.522
+mistral-medium-2508,Mistral Medium 3.1,5,5,,pov_distance,6.6645
+o3-pro-medium,o3-pro (medium reasoning),1,1,,pov_distance,6.4535
+gpt-5-medium,GPT-5 (medium reasoning),1,1,,pov_distance,7.47875
+llama4-maverick,Llama 4 Maverick,3,3,,structure_pacing,3.463
+command-a,Cohere Command A,13,13,,structure_pacing,5.1625
+glm-4-5,GLM-4.5,14,14,,structure_pacing,4.7425
+gpt-oss-120b,GPT-OSS-120B,1,1,,structure_pacing,5.29925
+deepseek-reasoner,DeepSeek V3.1 Reasoner,8,8,,structure_pacing,6.056749999999999
+grok-4-0709,Grok 4,9,9,,structure_pacing,5.751
+deepseek-v31,DeepSeek V3.1 Non-Think,8,8,,structure_pacing,5.962000000000001
+qwen3-235b-a22b-thinking-2507,Qwen 3 235B A22B 25-07 Think,6,6,,structure_pacing,6.475499999999999
+gemini-2.5-pro,Gemini 2.5 Pro,4,4,,structure_pacing,6.2707500000000005
+ernie_4_5_300b_a47b,Baidu Ernie 4.5 300B A47B,15,15,,structure_pacing,6.37875
+claude-opus-4-1-20250805-0K,Claude Opus 4.1 (no reasoning),2,2,,structure_pacing,5.751188299817184
+kimi-k2,Kimi K2,16,16,,structure_pacing,6.8702499999999995
+mistral-medium-2508,Mistral Medium 3.1,5,5,,structure_pacing,6.89375
+o3-pro-medium,o3-pro (medium reasoning),1,1,,structure_pacing,6.86775
+gpt-5-medium,GPT-5 (medium reasoning),1,1,,structure_pacing,5.9415
+llama4-maverick,Llama 4 Maverick,3,3,,tone_mood,7.822055137844612
+command-a,Cohere Command A,13,13,,tone_mood,7.93675
+glm-4-5,GLM-4.5,14,14,,tone_mood,8.096
+gpt-oss-120b,GPT-OSS-120B,1,1,,tone_mood,8.67925
+deepseek-reasoner,DeepSeek V3.1 Reasoner,8,8,,tone_mood,8.47025
+grok-4-0709,Grok 4,9,9,,tone_mood,8.4965
+deepseek-v31,DeepSeek V3.1 Non-Think,8,8,,tone_mood,8.472681704260651
+qwen3-235b-a22b-thinking-2507,Qwen 3 235B A22B 25-07 Think,6,6,,tone_mood,8.637
+gemini-2.5-pro,Gemini 2.5 Pro,4,4,,tone_mood,8.517000000000001
+ernie_4_5_300b_a47b,Baidu Ernie 4.5 300B A47B,15,15,,tone_mood,8.21175
+claude-opus-4-1-20250805-0K,Claude Opus 4.1 (no reasoning),2,2,,tone_mood,8.388299817184643
+kimi-k2,Kimi K2,16,16,,tone_mood,8.91525
+mistral-medium-2508,Mistral Medium 3.1,5,5,,tone_mood,8.74425
+o3-pro-medium,o3-pro (medium reasoning),1,1,,tone_mood,8.86575
+gpt-5-medium,GPT-5 (medium reasoning),1,1,,tone_mood,8.93675
+llama4-maverick,Llama 4 Maverick,3,3,,tonal_span,2.385
+command-a,Cohere Command A,13,13,,tonal_span,2.992
+glm-4-5,GLM-4.5,14,14,,tonal_span,3.04175
+gpt-oss-120b,GPT-OSS-120B,1,1,,tonal_span,2.78675
+deepseek-reasoner,DeepSeek V3.1 Reasoner,8,8,,tonal_span,3.55775
+grok-4-0709,Grok 4,9,9,,tonal_span,3.1822500000000002
+deepseek-v31,DeepSeek V3.1 Non-Think,8,8,,tonal_span,3.51875
+qwen3-235b-a22b-thinking-2507,Qwen 3 235B A22B 25-07 Think,6,6,,tonal_span,3.4497500000000003
+gemini-2.5-pro,Gemini 2.5 Pro,4,4,,tonal_span,3.3835
+ernie_4_5_300b_a47b,Baidu Ernie 4.5 300B A47B,15,15,,tonal_span,3.549
+claude-opus-4-1-20250805-0K,Claude Opus 4.1 (no reasoning),2,2,,tonal_span,3.525594149908592
+kimi-k2,Kimi K2,16,16,,tonal_span,3.8025
+mistral-medium-2508,Mistral Medium 3.1,5,5,,tonal_span,3.8089999999999997
+o3-pro-medium,o3-pro (medium reasoning),1,1,,tonal_span,4.10375
+gpt-5-medium,GPT-5 (medium reasoning),1,1,,tonal_span,4.1265
+llama4-maverick,Llama 4 Maverick,3,3,,imagery_density,7.019
+command-a,Cohere Command A,13,13,,imagery_density,7.47325
+glm-4-5,GLM-4.5,14,14,,imagery_density,7.60625
+gpt-oss-120b,GPT-OSS-120B,1,1,,imagery_density,8.7245
+deepseek-reasoner,DeepSeek V3.1 Reasoner,8,8,,imagery_density,8.212250000000001
+grok-4-0709,Grok 4,9,9,,imagery_density,8.38025
+deepseek-v31,DeepSeek V3.1 Non-Think,8,8,,imagery_density,8.2095
+qwen3-235b-a22b-thinking-2507,Qwen 3 235B A22B 25-07 Think,6,6,,imagery_density,8.6455
+gemini-2.5-pro,Gemini 2.5 Pro,4,4,,imagery_density,8.3735
+ernie_4_5_300b_a47b,Baidu Ernie 4.5 300B A47B,15,15,,imagery_density,8.18775
+claude-opus-4-1-20250805-0K,Claude Opus 4.1 (no reasoning),2,2,,imagery_density,8.189762340036564
+kimi-k2,Kimi K2,16,16,,imagery_density,9.1135
+mistral-medium-2508,Mistral Medium 3.1,5,5,,imagery_density,8.78225
+o3-pro-medium,o3-pro (medium reasoning),1,1,,imagery_density,9.04325
+gpt-5-medium,GPT-5 (medium reasoning),1,1,,imagery_density,9.138
+llama4-maverick,Llama 4 Maverick,3,3,,dialogue_density,0.1295
+command-a,Cohere Command A,13,13,,dialogue_density,0.71125
+glm-4-5,GLM-4.5,14,14,,dialogue_density,0.7275
+gpt-oss-120b,GPT-OSS-120B,1,1,,dialogue_density,0.204
+deepseek-reasoner,DeepSeek V3.1 Reasoner,8,8,,dialogue_density,0.625
+grok-4-0709,Grok 4,9,9,,dialogue_density,0.677
+deepseek-v31,DeepSeek V3.1 Non-Think,8,8,,dialogue_density,0.69475
+qwen3-235b-a22b-thinking-2507,Qwen 3 235B A22B 25-07 Think,6,6,,dialogue_density,0.6835
+gemini-2.5-pro,Gemini 2.5 Pro,4,4,,dialogue_density,0.621
+ernie_4_5_300b_a47b,Baidu Ernie 4.5 300B A47B,15,15,,dialogue_density,1.6565
+claude-opus-4-1-20250805-0K,Claude Opus 4.1 (no reasoning),2,2,,dialogue_density,1.3393053016453382
+kimi-k2,Kimi K2,16,16,,dialogue_density,0.79375
+mistral-medium-2508,Mistral Medium 3.1,5,5,,dialogue_density,1.369
+o3-pro-medium,o3-pro (medium reasoning),1,1,,dialogue_density,0.9825
+gpt-5-medium,GPT-5 (medium reasoning),1,1,,dialogue_density,0.9115000000000001
+llama4-maverick,Llama 4 Maverick,3,3,,dialogue_subtext,0.2605
+command-a,Cohere Command A,13,13,,dialogue_subtext,1.2175
+glm-4-5,GLM-4.5,14,14,,dialogue_subtext,1.53625
+gpt-oss-120b,GPT-OSS-120B,1,1,,dialogue_subtext,0.62425
+deepseek-reasoner,DeepSeek V3.1 Reasoner,8,8,,dialogue_subtext,1.8115
+grok-4-0709,Grok 4,9,9,,dialogue_subtext,1.4782499999999998
+deepseek-v31,DeepSeek V3.1 Non-Think,8,8,,dialogue_subtext,2.00575
+qwen3-235b-a22b-thinking-2507,Qwen 3 235B A22B 25-07 Think,6,6,,dialogue_subtext,1.85125
+gemini-2.5-pro,Gemini 2.5 Pro,4,4,,dialogue_subtext,1.9552500000000002
+ernie_4_5_300b_a47b,Baidu Ernie 4.5 300B A47B,15,15,,dialogue_subtext,3.17125
+claude-opus-4-1-20250805-0K,Claude Opus 4.1 (no reasoning),2,2,,dialogue_subtext,3.164533820840951
+kimi-k2,Kimi K2,16,16,,dialogue_subtext,3.467
+mistral-medium-2508,Mistral Medium 3.1,5,5,,dialogue_subtext,4.994
+o3-pro-medium,o3-pro (medium reasoning),1,1,,dialogue_subtext,3.69825
+gpt-5-medium,GPT-5 (medium reasoning),1,1,,dialogue_subtext,4.5215
+llama4-maverick,Llama 4 Maverick,3,3,,experimentation_degree,2.1135
+command-a,Cohere Command A,13,13,,experimentation_degree,2.1255
+glm-4-5,GLM-4.5,14,14,,experimentation_degree,2.443
+gpt-oss-120b,GPT-OSS-120B,1,1,,experimentation_degree,3.23125
+deepseek-reasoner,DeepSeek V3.1 Reasoner,8,8,,experimentation_degree,2.59925
+grok-4-0709,Grok 4,9,9,,experimentation_degree,2.80125
+deepseek-v31,DeepSeek V3.1 Non-Think,8,8,,experimentation_degree,2.555
+qwen3-235b-a22b-thinking-2507,Qwen 3 235B A22B 25-07 Think,6,6,,experimentation_degree,2.7742500000000003
+gemini-2.5-pro,Gemini 2.5 Pro,4,4,,experimentation_degree,2.5225
+ernie_4_5_300b_a47b,Baidu Ernie 4.5 300B A47B,15,15,,experimentation_degree,2.57125
+claude-opus-4-1-20250805-0K,Claude Opus 4.1 (no reasoning),2,2,,experimentation_degree,2.7544789762340036
+kimi-k2,Kimi K2,16,16,,experimentation_degree,4.6435
+mistral-medium-2508,Mistral Medium 3.1,5,5,,experimentation_degree,3.805
+o3-pro-medium,o3-pro (medium reasoning),1,1,,experimentation_degree,4.749750000000001
+gpt-5-medium,GPT-5 (medium reasoning),1,1,,experimentation_degree,6.021
+llama4-maverick,Llama 4 Maverick,3,3,,associative_gaps,1.7045
+command-a,Cohere Command A,13,13,,associative_gaps,1.71325
+glm-4-5,GLM-4.5,14,14,,associative_gaps,1.71625
+gpt-oss-120b,GPT-OSS-120B,1,1,,associative_gaps,2.21075
+deepseek-reasoner,DeepSeek V3.1 Reasoner,8,8,,associative_gaps,1.7167500000000002
+grok-4-0709,Grok 4,9,9,,associative_gaps,1.8442500000000002
+deepseek-v31,DeepSeek V3.1 Non-Think,8,8,,associative_gaps,1.75025
+qwen3-235b-a22b-thinking-2507,Qwen 3 235B A22B 25-07 Think,6,6,,associative_gaps,1.7594999999999998
+gemini-2.5-pro,Gemini 2.5 Pro,4,4,,associative_gaps,1.7469999999999999
+ernie_4_5_300b_a47b,Baidu Ernie 4.5 300B A47B,15,15,,associative_gaps,1.8805
+claude-opus-4-1-20250805-0K,Claude Opus 4.1 (no reasoning),2,2,,associative_gaps,1.9946886446886445
+kimi-k2,Kimi K2,16,16,,associative_gaps,2.845
+mistral-medium-2508,Mistral Medium 3.1,5,5,,associative_gaps,2.6517500000000003
+o3-pro-medium,o3-pro (medium reasoning),1,1,,associative_gaps,2.55125
+gpt-5-medium,GPT-5 (medium reasoning),1,1,,associative_gaps,3.765
+llama4-maverick,Llama 4 Maverick,3,3,,closure_cadence,7.47125
+command-a,Cohere Command A,13,13,,closure_cadence,7.7375
+glm-4-5,GLM-4.5,14,14,,closure_cadence,7.8925
+gpt-oss-120b,GPT-OSS-120B,1,1,,closure_cadence,8.080499999999999
+deepseek-reasoner,DeepSeek V3.1 Reasoner,8,8,,closure_cadence,8.261000000000001
+grok-4-0709,Grok 4,9,9,,closure_cadence,7.92725
+deepseek-v31,DeepSeek V3.1 Non-Think,8,8,,closure_cadence,8.18075
+qwen3-235b-a22b-thinking-2507,Qwen 3 235B A22B 25-07 Think,6,6,,closure_cadence,8.096
+gemini-2.5-pro,Gemini 2.5 Pro,4,4,,closure_cadence,8.1045
+ernie_4_5_300b_a47b,Baidu Ernie 4.5 300B A47B,15,15,,closure_cadence,7.693984962406016
+claude-opus-4-1-20250805-0K,Claude Opus 4.1 (no reasoning),2,2,,closure_cadence,8.109872029250457
+kimi-k2,Kimi K2,16,16,,closure_cadence,7.51825
+mistral-medium-2508,Mistral Medium 3.1,5,5,,closure_cadence,8.06125
+o3-pro-medium,o3-pro (medium reasoning),1,1,,closure_cadence,8.2985
+gpt-5-medium,GPT-5 (medium reasoning),1,1,,closure_cadence,8.2115
+llama4-maverick,Llama 4 Maverick,3,3,,worldbuilding_intensity,2.5044999999999997
+command-a,Cohere Command A,13,13,,worldbuilding_intensity,3.0414999999999996
+glm-4-5,GLM-4.5,14,14,,worldbuilding_intensity,3.4885
+gpt-oss-120b,GPT-OSS-120B,1,1,,worldbuilding_intensity,3.3665
+deepseek-reasoner,DeepSeek V3.1 Reasoner,8,8,,worldbuilding_intensity,3.508
+grok-4-0709,Grok 4,9,9,,worldbuilding_intensity,3.825
+deepseek-v31,DeepSeek V3.1 Non-Think,8,8,,worldbuilding_intensity,3.5585000000000004
+qwen3-235b-a22b-thinking-2507,Qwen 3 235B A22B 25-07 Think,6,6,,worldbuilding_intensity,3.8052499999999996
+gemini-2.5-pro,Gemini 2.5 Pro,4,4,,worldbuilding_intensity,3.62125
+ernie_4_5_300b_a47b,Baidu Ernie 4.5 300B A47B,15,15,,worldbuilding_intensity,3.6522500000000004
+claude-opus-4-1-20250805-0K,Claude Opus 4.1 (no reasoning),2,2,,worldbuilding_intensity,4.051919561243144
+kimi-k2,Kimi K2,16,16,,worldbuilding_intensity,3.8215
+mistral-medium-2508,Mistral Medium 3.1,5,5,,worldbuilding_intensity,3.52225
+o3-pro-medium,o3-pro (medium reasoning),1,1,,worldbuilding_intensity,4.24775
+gpt-5-medium,GPT-5 (medium reasoning),1,1,,worldbuilding_intensity,3.9355
+llama4-maverick,Llama 4 Maverick,3,3,,internal_external_ratio,2.19575
+command-a,Cohere Command A,13,13,,internal_external_ratio,2.7255000000000003
+glm-4-5,GLM-4.5,14,14,,internal_external_ratio,2.8425
+gpt-oss-120b,GPT-OSS-120B,1,1,,internal_external_ratio,2.6755
+deepseek-reasoner,DeepSeek V3.1 Reasoner,8,8,,internal_external_ratio,2.898
+grok-4-0709,Grok 4,9,9,,internal_external_ratio,2.951
+deepseek-v31,DeepSeek V3.1 Non-Think,8,8,,internal_external_ratio,2.905
+qwen3-235b-a22b-thinking-2507,Qwen 3 235B A22B 25-07 Think,6,6,,internal_external_ratio,3.0180000000000002
+gemini-2.5-pro,Gemini 2.5 Pro,4,4,,internal_external_ratio,2.792
+ernie_4_5_300b_a47b,Baidu Ernie 4.5 300B A47B,15,15,,internal_external_ratio,3.08475
+claude-opus-4-1-20250805-0K,Claude Opus 4.1 (no reasoning),2,2,,internal_external_ratio,3.036563071297989
+kimi-k2,Kimi K2,16,16,,internal_external_ratio,2.7857499999999997
+mistral-medium-2508,Mistral Medium 3.1,5,5,,internal_external_ratio,2.87225
+o3-pro-medium,o3-pro (medium reasoning),1,1,,internal_external_ratio,3.24125
+gpt-5-medium,GPT-5 (medium reasoning),1,1,,internal_external_ratio,2.9245
+llama4-maverick,Llama 4 Maverick,3,3,,realism_spectrum,6.374750000000001
+command-a,Cohere Command A,13,13,,realism_spectrum,6.747000000000001
+glm-4-5,GLM-4.5,14,14,,realism_spectrum,6.7945
+gpt-oss-120b,GPT-OSS-120B,1,1,,realism_spectrum,7.9182500000000005
+deepseek-reasoner,DeepSeek V3.1 Reasoner,8,8,,realism_spectrum,6.689
+grok-4-0709,Grok 4,9,9,,realism_spectrum,7.1015
+deepseek-v31,DeepSeek V3.1 Non-Think,8,8,,realism_spectrum,6.6785000000000005
+qwen3-235b-a22b-thinking-2507,Qwen 3 235B A22B 25-07 Think,6,6,,realism_spectrum,6.400499999999999
+gemini-2.5-pro,Gemini 2.5 Pro,4,4,,realism_spectrum,6.4965
+ernie_4_5_300b_a47b,Baidu Ernie 4.5 300B A47B,15,15,,realism_spectrum,7.00775
+claude-opus-4-1-20250805-0K,Claude Opus 4.1 (no reasoning),2,2,,realism_spectrum,6.7032906764168185
+kimi-k2,Kimi K2,16,16,,realism_spectrum,7.9615
+mistral-medium-2508,Mistral Medium 3.1,5,5,,realism_spectrum,7.170750000000001
+o3-pro-medium,o3-pro (medium reasoning),1,1,,realism_spectrum,7.69025
+gpt-5-medium,GPT-5 (medium reasoning),1,1,,realism_spectrum,7.0832500000000005

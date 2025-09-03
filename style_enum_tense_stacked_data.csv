@@ -1,0 +1,46 @@
+LLM,LLM_Full,cat,cat_full,cat_desc,choice,prop
+gpt-5-medium,GPT-5 (medium reasoning),1,1,,Past,0.59
+kimi-k2,Kimi K2,16,16,,Past,0.9425
+o3-pro-medium,o3-pro (medium reasoning),1,1,,Past,0.945
+gpt-oss-120b,GPT-OSS-120B,1,1,,Past,0.9675
+gemini-2.5-pro,Gemini 2.5 Pro,4,4,,Past,0.9875
+glm-4-5,GLM-4.5,14,14,,Past,0.99
+llama4-maverick,Llama 4 Maverick,3,3,,Past,0.9925
+deepseek-reasoner,DeepSeek V3.1 Reasoner,8,8,,Past,0.995
+deepseek-v31,DeepSeek V3.1 Non-Think,8,8,,Past,0.995
+qwen3-235b-a22b-thinking-2507,Qwen 3 235B A22B 25-07 Think,6,6,,Past,0.995
+ernie_4_5_300b_a47b,Baidu Ernie 4.5 300B A47B,15,15,,Past,0.9975
+mistral-medium-2508,Mistral Medium 3.1,5,5,,Past,0.9975
+claude-opus-4-1-20250805-0K,Claude Opus 4.1 (no reasoning),2,2,,Past,0.9981718464351006
+command-a,Cohere Command A,13,13,,Past,1.0
+grok-4-0709,Grok 4,9,9,,Past,1.0
+gpt-5-medium,GPT-5 (medium reasoning),1,1,,Present,0.33
+kimi-k2,Kimi K2,16,16,,Present,0.05
+o3-pro-medium,o3-pro (medium reasoning),1,1,,Present,0.0425
+gpt-oss-120b,GPT-OSS-120B,1,1,,Present,0.0225
+gemini-2.5-pro,Gemini 2.5 Pro,4,4,,Present,0.01
+glm-4-5,GLM-4.5,14,14,,Present,0.0075
+llama4-maverick,Llama 4 Maverick,3,3,,Present,0.0075
+deepseek-reasoner,DeepSeek V3.1 Reasoner,8,8,,Present,0.005
+deepseek-v31,DeepSeek V3.1 Non-Think,8,8,,Present,0.005
+qwen3-235b-a22b-thinking-2507,Qwen 3 235B A22B 25-07 Think,6,6,,Present,0.005
+ernie_4_5_300b_a47b,Baidu Ernie 4.5 300B A47B,15,15,,Present,0.0025
+mistral-medium-2508,Mistral Medium 3.1,5,5,,Present,0.0
+claude-opus-4-1-20250805-0K,Claude Opus 4.1 (no reasoning),2,2,,Present,0.0
+command-a,Cohere Command A,13,13,,Present,0.0
+grok-4-0709,Grok 4,9,9,,Present,0.0
+gpt-5-medium,GPT-5 (medium reasoning),1,1,,Mixed,0.08
+kimi-k2,Kimi K2,16,16,,Mixed,0.0075
+o3-pro-medium,o3-pro (medium reasoning),1,1,,Mixed,0.0125
+gpt-oss-120b,GPT-OSS-120B,1,1,,Mixed,0.01
+gemini-2.5-pro,Gemini 2.5 Pro,4,4,,Mixed,0.0025
+glm-4-5,GLM-4.5,14,14,,Mixed,0.0025
+llama4-maverick,Llama 4 Maverick,3,3,,Mixed,0.0
+deepseek-reasoner,DeepSeek V3.1 Reasoner,8,8,,Mixed,0.0
+deepseek-v31,DeepSeek V3.1 Non-Think,8,8,,Mixed,0.0
+qwen3-235b-a22b-thinking-2507,Qwen 3 235B A22B 25-07 Think,6,6,,Mixed,0.0
+ernie_4_5_300b_a47b,Baidu Ernie 4.5 300B A47B,15,15,,Mixed,0.0
+mistral-medium-2508,Mistral Medium 3.1,5,5,,Mixed,0.0025
+claude-opus-4-1-20250805-0K,Claude Opus 4.1 (no reasoning),2,2,,Mixed,0.0018281535648994515
+command-a,Cohere Command A,13,13,,Mixed,0.0
+grok-4-0709,Grok 4,9,9,,Mixed,0.0
