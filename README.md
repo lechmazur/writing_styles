@@ -2,11 +2,13 @@
 
 This writeup documents the **style** side of the short-story Creative Writing LLM benchmark: we generated many short stories with a range of LLMs, then analyzed those stories for stylistic fingerprints and **within-model diversity**. This study focuses on how models write, how their outputs differ, and how varied each model is across its own stories.
 
+---
+
 ## What we measured
 
 * **Diversity per model.** For each LLM, we quantify how dissimilar its own stories are from one another in the measured style space.
 * **Style fingerprints per story.** Each story is scored along a curated set of axes (mix of numeric 0–10 scales and enums such as register, POV, closure form, genre family).
-
+---
 ## How the data was gathered
 We asked models to write **flash-fiction pieces of 600–800 words** from the same pool of prompts so comparisons are fair. Prompts include required elements to keep content varied across runs. For style analysis, those elements are treated as context rather than something to reward on their own. Each story was then read by a separate reviewing model that answered a fixed set of style questions. Results are aggregated at the story level and then rolled up by model.
 
@@ -26,6 +28,7 @@ We score what’s visible on the page. The axes summarize choices in:
 * **Content choices:** genre family, topic domain, time and place band, conflict frame, stakes level, cast size, realism vs. fabulism, ending valence, and how dependent the piece feels on the prompt.
 
 
+---
 ## LLM Diversity Leaderboard (Weighted Gower mean pairwise distance)
 | Rank | LLM                    | Diversity Score |
 |-----:|------------------------|----------------:|
@@ -45,6 +48,8 @@ We score what’s visible on the page. The axes summarize choices in:
 | 14 | Cohere Command A | 0.180 |
 | 15 | GPT-OSS-120B | 0.174 |
 
+---
+
 ### Figure: Stylistic diversity by model (Weighted Gower)
 
 ![Stylistic Diversity by LLM (Weighted Gower Mean Pairwise Distance)](images/diversity_leaderboard.png)
@@ -62,7 +67,7 @@ Diversity is a **style-range** number for each model. We compare that model’s 
 * **Lower** means the model tends to stay in a narrow lane.
 
 This is **not** a quality grade. It complements quality by showing range.
-
+---
 ## Style Results
 
 ### Figure: Numeric style means (0–10)
@@ -86,6 +91,7 @@ This is **not** a quality grade. It complements quality by showing range.
   * **GPT-OSS-120B:** lush voice and imagery paired with low paragraphing variety and low dialogue, a monologue-forward feel.
   * **Llama 4 Maverick:** consistently lower bands on many axes, narrow tonal span, minimal dialogue.
 
+---
 ### Figure: Topic domain — choice proportions by model
 
 ![Style Fingerprints • Topic Domain — Choice Proportions by LLM](images/style_enum_topic_domain_stacked.png)
@@ -95,6 +101,7 @@ This is **not** a quality grade. It complements quality by showing range.
 * **Nature share** is highest for GPT-OSS-120B and Baidu Ernie 4.5, with others clustering tightly.
 
 
+---
 ### Figure: Tense — choice proportions by model
 
 ![Style Fingerprints • Tense — Choice Proportions by LLM](images/style_enum_tense_stacked.png)
@@ -104,6 +111,7 @@ This is **not** a quality grade. It complements quality by showing range.
 * **Minor variation**: Kimi K2 and o3-pro show small present usage; others are essentially all past.
 
 
+---
 ### Figure: Temporal handling — choice proportions by model
 
 ![Style Fingerprints • Temporal Handling — Choice Proportions by LLM](images/style_enum_temporal_handling_stacked.png)
@@ -114,6 +122,7 @@ This is **not** a quality grade. It complements quality by showing range.
 * **Mosaic forms are rare:** **Braided/fragmented** timelines are negligible for every model.
 
 
+---
 ### Figure: Stakes level — choice proportions by model
 
 ![Style Fingerprints • Stakes Level — Choice Proportions by LLM](images/style_enum_stakes_level_stacked.png)
@@ -123,6 +132,7 @@ This is **not** a quality grade. It complements quality by showing range.
 * **Relational stakes** appear in small but noticeable slices (low-teens at most); **Professional** and **Physical** stakes are near-absent.
 * **Takeaway:** despite stylistic differences, models converge on **existential–moral** frames under these prompts.
 
+---
 ### Figure: Setting time — choice proportions by model
 
 ![Style Fingerprints • Setting Time — Choice Proportions by LLM](images/style_enum_setting_time_stacked.png)
@@ -133,6 +143,7 @@ This is **not** a quality grade. It complements quality by showing range.
 * **Range:** Contemporary varies only modestly (roughly low-teens), suggesting a shared preference for time-agnostic frames in flash fiction.
 
 
+---
 ### Figure: Setting space — choice proportions by model
 
 ![Style Fingerprints • Setting Space — Choice Proportions by LLM](images/style_enum_setting_space_stacked.png)
@@ -142,6 +153,7 @@ This is **not** a quality grade. It complements quality by showing range.
 * **Urban is mid-tier** (highest for Gemini 2.5 Pro and DeepSeek Non-Think); **Domestic** and **Transit** stay minimal for everyone.
 
 
+---
 ### Figure: Sentence form preference — choice proportions by model
 
 ![Style Fingerprints • Sentence Form Preference — Choice Proportions by LLM](images/style_enum_sentence_form_preference_stacked.png)
@@ -152,6 +164,7 @@ This is **not** a quality grade. It complements quality by showing range.
 * **Note:** Kimi K2 keeps a mostly balanced mix despite high sentence complexity, showing that complexity doesn’t require heavy hypotaxis.
 
 
+---
 ### Figure: Sensory bias — choice proportions by model
 
 ![Style Fingerprints • Sensory Bias — Choice Proportions by LLM](images/style_enum_sensory_bias_stacked.png)
@@ -161,6 +174,7 @@ This is **not** a quality grade. It complements quality by showing range.
 * **Auditory is secondary** and concentrated in **Kimi K2**, **o3-pro**, and **Grok 4**; **tactile** cues are minimal everywhere.
 
 
+---
 ### Figure: Rhetorical stance — choice proportions by model
 
 ![Style Fingerprints • Rhetorical Stance — Choice Proportions by LLM](images/style_enum_rhetorical_stance_stacked.png)
@@ -170,6 +184,7 @@ This is **not** a quality grade. It complements quality by showing range.
 * **Implication.** Stance is not a differentiator here; to elicit irony or detachment you need explicit prompting or constraints.
 
 
+---
 ### Figure: Register level — choice proportions by model
 
 ![Style Fingerprints • Register Level — Choice Proportions by LLM](images/style_enum_register_level_stacked.png)
@@ -179,6 +194,7 @@ This is **not** a quality grade. It complements quality by showing range.
 * **Takeaway:** register offers little separation among models here, aligning with the near-uniform **Earnest** stance.
 
 
+---
 ### Figure: Prompt dependency — choice proportions by model
 
 ![Style Fingerprints • Prompt Dependency — Choice Proportions by LLM](images/style_enum_prompt_dependency_stacked.png)
@@ -189,6 +205,7 @@ This is **not** a quality grade. It complements quality by showing range.
 * **Low is rare** across the board, as expected under element-constrained prompts.
 
 
+---
 ### Figure: POV scope — choice proportions by model
 
 ![Style Fingerprints • Pov Scope — Choice Proportions by LLM](style_enum_pov_scope_stacked.png)
@@ -198,6 +215,7 @@ This is **not** a quality grade. It complements quality by showing range.
 * **Implication:** viewpoint scope isn’t a differentiator under these prompts; to test multi-POV behavior, prompts must ask for it explicitly.
 
 
+---
 ### Figure: POV person — choice proportions by model
 
 ![Style Fingerprints • Pov Person — Choice Proportions by LLM](images/style_enum_pov_person_stacked.png)
@@ -208,6 +226,7 @@ This is **not** a quality grade. It complements quality by showing range.
 * **Omniscient** appears only as thin slices; models strongly prefer limited focalization unless prompted otherwise.
 
 
+---
 ### Figure: Narrator reliability — choice proportions by model
 
 ![Style Fingerprints • Narrator Reliability — Choice Proportions by LLM](images/style_enum_narrator_reliability_stacked.png)
@@ -217,6 +236,7 @@ This is **not** a quality grade. It complements quality by showing range.
 * **Implication:** unreliable narrators don’t emerge by default—prompts must call for them explicitly.
 
 
+---
 ### Figure: Narrative modality — choice proportions by model
 
 ![Style Fingerprints • Narrative Modality — Choice Proportions by LLM](images/style_enum_narrative_modality_stacked.png)
@@ -227,6 +247,7 @@ This is **not** a quality grade. It complements quality by showing range.
 * **Mosaic/reportage are negligible**, indicating little pattern-taught collage or documentary mode under these prompts.
 
 
+---
 ### Figure: Narrative drive — choice proportions by model
 
 ![Style Fingerprints • Narrative Drive — Choice Proportions by LLM](images/style_enum_narrative_drive_stacked.png)
@@ -237,6 +258,7 @@ This is **not** a quality grade. It complements quality by showing range.
 * **Situation** is negligible everywhere, confirming that momentum usually comes from idea, voice, or character rather than set-ups.
 
 
+---
 ### Figure: Motif strategy — choice proportions by model
 
 ![Style Fingerprints • Motif Strategy — Choice Proportions by LLM](images/style_enum_motif_strategy_stacked.png)
@@ -247,6 +269,7 @@ This is **not** a quality grade. It complements quality by showing range.
 * **Mixed craft:** **GPT-5** and **DeepSeek Reasoner** sit near a 1:2 split (threaded → transforming), balancing recurrence with end-weighted refiguring.
 
 
+---
 ### Figure: Metafictional devices — choice proportions by model
 
 ![Style Fingerprints • Metafictional Devices — Choice Proportions by LLM](images/style_enum_metafictional_devices_stacked.png)
@@ -257,6 +280,7 @@ This is **not** a quality grade. It complements quality by showing range.
 * **Takeaway:** metafiction doesn’t emerge by default; you must ask for it.
 
 
+---
 ### Figure: Language mix — choice proportions by model
 
 ![Style Fingerprints • Language Mix — Choice Proportions by LLM](images/style_enum_language_mix_stacked.png)
@@ -266,6 +290,7 @@ This is **not** a quality grade. It complements quality by showing range.
 * **Integrated multilingual style is essentially absent.** If you want sustained bilingual voice, the prompt must require it.
 
 
+---
 ### Figure: Genre family — choice proportions by model
 
 ![Style Fingerprints • Genre Family — Choice Proportions by LLM](images/style_enum_genre_family_stacked.png)
@@ -276,6 +301,7 @@ This is **not** a quality grade. It complements quality by showing range.
 * **Realist, romance, horror, and crime** are minimal across the board.
 
 
+---
 ### Figure: Free indirect presence — choice proportions by model
 
 ![Style Fingerprints • Free Indirect Presence — Choice Proportions by LLM](images/style_enum_free_indirect_presence_stacked.png)
@@ -285,6 +311,7 @@ This is **not** a quality grade. It complements quality by showing range.
 * **Takeaway:** persistent free-indirect narration isn’t a default behavior; it needs explicit prompting.
 
 
+---
 ### Figure: Exposition strategy — choice proportions by model
 
 ![Style Fingerprints • Exposition Strategy — Choice Proportions by LLM](images/style_enum_exposition_strategy_stacked.png)
@@ -294,6 +321,7 @@ This is **not** a quality grade. It complements quality by showing range.
 * **Takeaway:** exposition strategy is not a strong differentiator here; under 600–800 words, models converge on weaving background into the action.
 
 
+---
 ### Figure: Ending valence — choice proportions by model
 
 ![Style Fingerprints • Ending Valence — Choice Proportions by LLM](images/style_enum_ending_valence_stacked.png)
@@ -304,6 +332,7 @@ This is **not** a quality grade. It complements quality by showing range.
 * **Takeaway:** without explicit prompting, models resolve toward optimistic or gently open finales.
 
 
+---
 ### Figure: Dialogue markup — choice proportions by model
 
 ![Style Fingerprints • Dialogue Markup — Choice Proportions by LLM](images/style_enum_dialogue_markup_stacked.png)
@@ -314,6 +343,7 @@ This is **not** a quality grade. It complements quality by showing range.
 * **Extremes:** Llama 4 Maverick and GPT-OSS-120B are almost entirely minimal; GPT-5 and Grok 4 are close to that end of the spectrum.
 
 
+---
 ### Figure: Conflict type — choice proportions by model
 
 ![Style Fingerprints • Conflict Type — Choice Proportions by LLM](images/style_enum_conflict_type_stacked.png)
@@ -324,6 +354,7 @@ This is **not** a quality grade. It complements quality by showing range.
 * Overall pattern matches the earlier **internal–external ratio** results: stories skew inward unless the prompt pushes otherwise.
 
 
+---
 ### Figure: Closure form — choice proportions by model
 
 ![Style Fingerprints • Closure Form — Choice Proportions by LLM](images/style_enum_closure_form_stacked.png)
@@ -334,6 +365,7 @@ This is **not** a quality grade. It complements quality by showing range.
 * **Suspended/open are rare,** with suspended most visible for Kimi K2 and Cohere Command A.
 
 
+---
 ### Figure: Cast size — choice proportions by model
 
 ![Style Fingerprints • Cast Size — Choice Proportions by LLM](images/style_enum_cast_size_stacked.png)
@@ -343,6 +375,7 @@ This is **not** a quality grade. It complements quality by showing range.
 * **Small casts** show up most with **GPT-5, o3-pro,** and **DeepSeek Reasoner**; **ensemble** is almost nonexistent.
 
 
+---
 ### Figure: Style numeric axes — correlations (per-LLM means)
 
 ![Style Numeric Axes • Pearson Correlations (Per-LLM Means)](images/style_numeric_axis_correlation.png)
