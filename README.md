@@ -412,8 +412,9 @@ Below are A‑vs‑B analyses for stories written to the same required elements.
 - [Kimi K2-0905 (A) vs GPT-5 (medium reasoning) (B)](inter_llm_comparison_summaries/kimi-k2-0905__vs__gpt-5-medium.txt)
 
 
-- Rubric‑Aligned: Directly maps to our grading rubric (Q1–Q8 craft; 9A–J element integration), with concrete, falsifiable observations tied to on‑page evidence.
-- Beyond‑Rubric: Additional, non‑graded distinctions (e.g., metaphor layering, syntactic rhythm, idiomatic freshness, genre fluency). These contextualize differences that the rubric doesn’t fully capture.
+Rubric‑Aligned: Directly maps to our grading rubric (Q1–Q8 craft; 9A–J element integration), with concrete, falsifiable observations tied to on‑page evidence.
+
+Beyond‑Rubric: Additional, non‑graded distinctions (e.g., metaphor layering, syntactic rhythm, idiomatic freshness, genre fluency). These contextualize differences that the rubric doesn’t fully capture.
 
 ---
 
