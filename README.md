@@ -397,6 +397,18 @@ This is **not** a quality grade. It complements quality by showing range.
 **Implication:** many surface-craft axes are collinear, while **endings, paragraphing strategy, and realism** behave more independently—useful when selecting a smaller set of levers to compare models.
 
 
+---
+## Head-to-head comparisons
+
+- [Grok 4 (A) vs GPT-5 Medium (B)](inter_llm_comparison_summaries/grok-4-0709__vs__gpt-5-medium.txt)
+- [Kimi K2-0905 (A) vs Qwen 3 Max Preview (B)](inter_llm_comparison_summaries/kimi-k2-0905__vs__qwen3-max-preview.txt)
+- [Kimi K2-0905 (A) vs DeepSeek V3.1 Reasoner (B)](inter_llm_comparison_summaries/kimi-k2-0905__vs__deepseek-reasoner.txt)
+- [Claude Opus 4.1 (no reasoning) (A) vs GPT-5 (medium reasoning) (B)](inter_llm_comparison_summaries/claude-opus-4-1-20250805-0K__vs__gpt-5-medium.txt)
+- [Mistral Medium 3.1 (A) vs GPT-5 (medium reasoning) (B)](inter_llm_comparison_summaries/mistral-medium-2508__vs__gpt-5-medium.txt)
+- [Kimi K2-0905 (A) vs GLM-4.5 (B)](inter_llm_comparison_summaries/kimi-k2-0905__vs__glm-4-5.txt)
+- [Gemini 2.5 Pro (A) vs GPT-5 (medium reasoning) (B)](inter_llm_comparison_summaries/gemini-2.5-pro__vs__gpt-5-medium.txt)
+- [Kimi K2-0905 (A) vs GPT-5 (medium reasoning) (B)](inter_llm_comparison_summaries/kimi-k2-0905__vs__gpt-5-medium.txt)
+
 
 ---
 
@@ -414,6 +426,9 @@ This is **not** a quality grade. It complements quality by showing range.
 - [LLM Confabulation/Hallucination Benchmark](https://github.com/lechmazur/confabulations/)
 - [LLM Deceptiveness and Gullibility](https://github.com/lechmazur/deception/)
 - [LLM Divergent Thinking Creativity Benchmark](https://github.com/lechmazur/divergent/)
+
+## Updates
+- Sep 8, 2025: Head-to-head comparisons added
 
 ## More
 - Follow [@lechmazur](https://x.com/LechMazur) on X (Twitter) for other upcoming benchmarks and more.

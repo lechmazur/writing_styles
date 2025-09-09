@@ -1,0 +1,80 @@
+Kimi K2-0905 (A) vs Qwen 3 Max Preview (B)
+RUBRIC‑ALIGNED OVERVIEW
+Across the evidence, A more often delivers a clear because/therefore spine that escalates to a decisive, cost‑bearing closure, with objects, setting, and method operating as engines rather than décor. B tends to favor a steadier, aphorism‑inflected lyric that explains its thesis cleanly and reads accessibly, but frequently resolves with softer, lower‑cost endings and less setting‑driven pressure.
+
+RUBRIC: A ADVANTAGES
+- Builds causal sequences that narrow options and culminate in felt, on‑page turns (rescue/renunciation/sacrifice), landing Decisive Change or Resonant Reconfiguration (Q2, Q4).
+- Uses setting to constrain tactics and charge images: ladders, domes, silos, canals, sky‑bridges, frozen lakes, and grottos actively shape choices and outcomes (Q3, 9G).
+- Integrates required objects/methods as functional mechanisms: keys, shards, seals, prisms, seeds, coins, lenses, bells, and diaries change states and unlock outcomes; methods (mapping, tuning, decoding, weaving, counting, breath) drive consequences (9B, 9E–F).
+- Threads motivation into behavior and costed decisions rather than declarations; protagonists act on stated aims under pressure (Q1, 9I).
+- Sustains escalation with timed constraints (eclipse, midnight calls, perigee, dawn, countdown hums), making timeframe operative rather than ambient (9H).
+- Achieves thematic cohesion through recurring, transformed motifs (spiral/rope/ledger/seed; light/sound/negative space; map/memory/echo) that pay off in the final beat (Q6).
+- Prose exhibits vivid, specific image systems tied to plot (e.g., “needle finding the groove,” “mirror shard spear,” “braille of stars”), maintaining momentum while staying lyrical (Q7–Q8).
+- Often chooses non‑violent or third‑path solutions that reprice earlier images and rules, adding ethical nuance without pausing for essay (Q5–Q6).
+- Frequently scales individual stakes to communal consequence via consequential final images (lit city, reknit map, tuned town windows), extending closure beyond the scene (Q6, 9C).
+
+RUBRIC: B ADVANTAGES
+- Maintains clean, controlled cadence with accessible exposition and tidy thematic articulation; readers can grasp the thesis quickly (Q6–Q8).
+- Presents procedural clarity and legibility of methods in several pieces (e.g., breath/tuning, chime lexicons, heat‑mapping, hopscotch luminance), teaching the “lens” stepwise (9F).
+- Anchors who/where/when early with polished spatial choreography; orientation is rarely in doubt (Q2–Q3).
+- Consistent tonal restraint—meditative, elegiac, or reverent modes—held end‑to‑end without jarring spikes (Q6, 9J).
+- Uses dialogue and small social beats to humanize stakes without derailing flow (captains, mentors, keepers, children), adding approachability (Q1, Q7).
+- Offers clear conceptual reframes stated succinctly (“duet not solo,” “not to conquer… to coexist”), aiding thematic uptake (Q6).
+- Occasionally broadens scope via institutional or communal arcs (semester adoption, bell montage, citywide beacons), conveying method dissemination (Q6, 9C).
+- Often avoids purple risk by favoring concrete, evenly weighted sentences and recognizable craft lexicons (Q7–Q8).
+
+RUBRIC: SHARED STRENGTHS
+- Early orientation and stable single‑POV focalization across pieces; minimal head‑hopping (Q2, Q7).
+- Lyrical imagework with recurring motif nets (silence/light/sound/spiral/map) that support tone and theme (Q5–Q6, 9J).
+- Required elements are present and generally purposeful rather than token; objects recur and methods are named and, at baseline, enacted (9A–9J).
+- Preference for non‑sensational, ethically tuned resolutions; violence avoided in favor of tuning, translation, or stewardship (Q6).
+- Integrates timeframe as mood; at best, both make it a constraint that gates access or timing (9H).
+
+RUBRIC: FAILURE MODES
+- A: Periodic purple/ornamental density and metaphor pile‑ups can blur mechanics or stakes in peak beats; occasional plausibility strains (Q7–Q8).
+- A: Several instances of truncated lines/unfinished sentences and occasional scope leaps mar polish or clarity at the exit.
+- A: A few rule/causality jumps rest on acceptance rather than on‑page grounding, risking hand‑wave in otherwise precise systems (Q2).
+- B: Soft closures with low on‑page cost; endings arrive via declaration or gentle poise rather than a forced trade‑off (Q2, Q4).
+- B: Didactic/aphoristic tendencies (“not X, but Y”; slogans) supplant dramatization and lower pressure; convenience beats resolve conflict (Q6–Q8).
+- B: Setting and objects sometimes aesthetic rather than constraining; methods labeled but under‑operative at the turn (Q3, 9B, 9F).
+- B: Repetition of familiar images/phrases (bleeding dawns, cathedral metaphors) can dilute originality (Q5).
+
+BEYOND‑RUBRIC INSIGHTS
+Beyond the rubric, A shows a distinct appetite for turning metaphors into diegetic mechanics—building puzzle ecologies where motifs transform function to reach closure—often with a sacrificial or third‑way ethic. B excels at pedagogical clarity and humane restraint; its pieces often read as contemplative parables or lab notes that broaden a method’s social reach, even when they land with softer dramatic torque.
+
+BEYOND: DISTINCTIVES FOR A
+- Metaphor‑to‑mechanism alchemy: recurrent images (seed/rope/spiral/ledger/light) evolve into tools that change world state.
+- Ethical third paths: solutions via re‑tuning, non‑capture release, or self‑limitation rather than defeat/escape tropes.
+- High‑impact closure images (city breathing again; reknit map; bell note across a coast; mirror‑imprint) that linger and suggest societal ripples.
+- Kinetic spatial staging—ladders, tracks, silos, grottoes—yields cinematic beat‑maps without heavy exposition.
+- Internalized cost signals (leaving object/role/voice; object breaking/dulling) provide tangible prices alongside conceptual turns.
+
+BEYOND: DISTINCTIVES FOR B
+- Parable clarity: crisp thematic sentences and rule summaries that make the “lens” teachable and scalable beyond the scene.
+- Procedural comfort: lists, parallel syntax, and measured rhythm produce a liturgical or lab‑notebook cadence that many readers trust.
+- Community‑facing frames (classrooms, councils, bells, lanterns) that emphasize adoption and stewardship over individual heroics.
+- Gentle wit and human warmth in micro‑gestures and dialogues that soften the austerity of the lyric.
+- Genre fluency in soft‑science or civic fable registers; “hopepunk” leaning outcomes with institutional or communal uptake.
+
+BOUNDARIES (When A/B does better)
+- A does better when the brief demands a scene that must turn—clear stakes, functional object/method, and a costed closure under time/space constraints.
+- A excels in stories needing puzzle mechanics, ritual causality, or world reconfiguration imaged through a tool or threshold.
+- B does better when clarity, steadiness, and approachable thesis are paramount—tutorial vignettes, communal rituals, or essays‑as‑fiction that privilege method legibility.
+- B suits pieces where tone must remain even and humane and the goal is a resonant poise rather than a sharp pivot.
+
+RECOMMENDATIONS FOR A
+- Trim metaphor stacks at hinge beats; keep one or two image threads active to preserve causal crispness.
+- Audit line endings and ensure endings land clean—avoid truncations; tighten final cadences.
+- Ground bold mechanics with one extra tactile consequence or rule hint to reduce hand‑wave risk.
+- Watch for scope leaps at closure; let cost bite on the page (a lost tool, changed practice), not only in concept.
+- Reserve aphorism; let closure images carry the thesis.
+
+RECOMMENDATIONS FOR B
+- Raise on‑page pressure: add a concrete obstacle, deadline, or trade‑off that forces a choice and prices the turn.
+- Convert aphorisms into enacted beats; replace “not X, but Y” lines with an image or action that proves it.
+- Make setting and objects constrain tactics at the hinge moment; let the tool fail until used in a new way.
+- Reduce convenience beats; swap montage outcomes for one dramatized consequence.
+- Vary cadence at turns with short, decisive lines tied to action to mark escalation.
+
+FINAL VERDICT
+Overall, A distinguishes itself with stronger cause‑and‑effect escalation to cost‑bearing closures and deeper, functional integration of elements, while B offers cleaner, accessible delivery with steadier tone but too often resolves with low‑pressure poise rather than earned change.

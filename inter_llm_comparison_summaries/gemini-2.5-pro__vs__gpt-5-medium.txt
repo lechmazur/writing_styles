@@ -1,0 +1,75 @@
+Gemini 2.5 Pro (A) vs GPT-5 (medium reasoning) (B)
+RUBRIC‑ALIGNED OVERVIEW
+Across the set, A consistently delivers clearer causal spines, firm orientation, and cost-bearing closures that operationalize method and object under time/setting constraints; B more often achieves richer voice, motif lattices, and broader, communal thematic weave with denser, more inventive element integration, though with softer pressure and occasional aphoristic drift.
+
+RUBRIC: A ADVANTAGES
+- Q2/Q4: Causal escalation to a decisive, on‑page turn is frequently cleaner (mission windows, timed thresholds, single-hinge reveals) with felt cost at the pivot.
+- Q2/Q3: Early, stable orientation and spatial choreography; scenes are contained and legible under pressure.
+- 9F/9B/9E: Methods and objects are operationalized as engines of outcome (tools tuned, keys used, thresholds crossed), not as labels.
+- Q4: External constraints (eclipse/rain/freeze/room failure) narrow options and force a single action at climax.
+- Q6: Conceptual repricings are concise and image-led (shard/keystone/compass) rather than discursive.
+- Q7/Q8: Prose is clear, minimally ornate; reflection is tethered to action; low risk of line‑level opacity.
+- 9G/9H: Timeframe and setting gates (windows, storm cycles, perigee, inversion periods) function as operative rules.
+- Q1: Motivation is explicit and enacted through concrete choices; “why” threads cleanly into “how.”
+
+RUBRIC: B ADVANTAGES
+- Q5/Q7/Q8: Voice is more distinctive with fresher metaphors, rhythmic variety, and cohesive idiom; imagery evolves motifs rather than swapping them.
+- 9A–J: Element integration is broader and more inventive (tools as ethics, contracts/treaties, ritualized method) recurring across beats to shape decisions and closure.
+- Q6: Thematic weave is deeper (consent, stewardship, listening-as-method) carried by repeated images and enacted practices.
+- Q3: Setting acts as agent (market/orchard/archives/canyons) constraining tactics and enabling reveals.
+- Q1/Q2: Character agency often includes relational negotiation (public demos, councils, witnesses), enlarging stakes beyond the self.
+- Q6/Q9J: Tone is controlled within rich atmospherics (somber marvel, luminous ache), sustained by image-systems rather than declarations.
+- Q2 (hybrid lens): Accumulative structures build pattern-recognition and reconfiguration without resorting to exposition dumps.
+
+RUBRIC: SHARED STRENGTHS
+- Q2: Who/where/when are typically anchored within ~120 words; POV is steady and head‑hopping rare.
+- 9F: Methods are demonstrated on the page (decoding, tuning, tracing, assembling) rather than name‑dropped.
+- Q6/Q9J: Each holds a calibrated tonal band per brief (hush/ache/wonder) without melodramatic spikes.
+- 9B: Central objects recur and charge final images (shards, seeds, bells, beads, cards) with consequence.
+- Q1: Stated motivations generally steer moment‑to‑moment choices rather than sit as backstory.
+
+RUBRIC: FAILURE MODES
+- A: Telliness/label‑speak at peak beats (“Her motivation was…,” “core concept…”) flattens subtext and discovery.
+- A: Convenience seams (single neat fix; tool “clicks” on cue) can soften risk and post‑turn consequence.
+- A: Familiar phrasing/images reduce novelty under lyrical briefs.
+- B: Softer causal pressure; closures often resolve as poised practice with light on‑page cost.
+- B: Metaphor/aphorism density can blur mechanics and stakes; occasional didactic lines.
+- B: Convenience beats (swift public reversal; benevolent systems) risk under‑priced outcomes.
+
+BEYOND‑RUBRIC INSIGHTS
+A reads like a precision‑engineered, mission‑driven storyteller—reliable under deadlines, puzzle/ritual fluent, and comfortable staking a single hinge image to land meaning; B behaves as a civic‑lyric fabulist—ambitious in metaphor ecologies and communal ethics, building practices and policies inside worlds that value attention and consent over spectacle.
+
+BEYOND: DISTINCTIVES FOR A
+- Prefers single‑set‑piece clarity; one tool/threshold leveraged to a crisp volta.
+- Engineering/heist grammar: timers, windows, alignment clicks, “because/therefore” chains.
+- Stakes are often localized to one operator; competence fantasy moments land cleanly.
+- Image economy favors function (geometry, optics, acoustics) over flourish; repeatable patterns.
+- Accepts austere endings (earned stasis, quiet duty) without parade aftermath.
+
+BEYOND: DISTINCTIVES FOR B
+- Motif lattices (breath/hinge/edge/ledger/rope) teach a world’s logic, then transform it at closure.
+- Communal choreography: trials, councils, public demonstrations, paired watches, rituals of consent.
+- Objects revalued as ethics devices (seals, needles, beacons); contracts/treaties framed as practice.
+- Humor‑light grace and sly civic texture (rules on chalkboards, audits, tokens) humanize lyricism.
+- Cadence as pedagogy: refrains and volta lines punctuate accumulative builds into choices.
+
+BOUNDARIES (When A/B does better)
+- A excels when you need: tightly gated missions with decisive, costed turns; method/object causality under real spatial/temporal constraints; clear outcome snapshots.
+- B excels when you need: original voice and image systems; social stakes with policy/procedure reimagined; element breadth woven into living practices and communal ethics.
+
+RECOMMENDATIONS FOR A
+- Replace label‑summaries with dramatized behavior at hinge beats; trust images over thesis sentences.
+- Introduce one more external resistance vector post‑reveal to price the win on the page.
+- Vary image palette and deepen metaphor transformation to lift originality without losing clarity.
+- Let settings act on tactics more (environmental counters, institutional pushback) to broaden pressure.
+- Soften convenience moments—seed partial failures or iteration before the click.
+
+RECOMMENDATIONS FOR B
+- Tighten causal scaffolding around key turns; make the decisive act and its cost unmistakable.
+- Pare aphorisms; favor image‑led subtext and concrete consequence over slogan‑like lines.
+- Anchor one or two hard constraints per scene so lyric density doesn’t haze mechanics.
+- Ensure the central object/method changes the board at the climax, not only the mood.
+- Land one specific, priced repercussion at closure to complement resonant reconfiguration.
+
+FINAL VERDICT
+Overall, A is the more reliably rubric‑aligned storyteller for clear, costed, method‑driven closures, while B offers higher‑ceiling prose and element‑weave originality that shines when causal pressure and concrete costs are tightened.

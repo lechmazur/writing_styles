@@ -1,0 +1,78 @@
+Kimi K2-0905 (A) vs GLM-4.5 (B)
+RUBRIC‑ALIGNED OVERVIEW
+Across the set, kimi-k2-0905 more often delivers cost-bearing closures driven by a clear causal spine, with required elements actively constraining choices and transforming the final image. glm-4-5 favors accessible orientation and stated method, but tends to resolve with low pressure, tokenized elements, and expository thematics. Both keep POV and tone stable and reliably meet presence of the required elements, but A integrates them as engines; B treats them as labels.
+
+RUBRIC: A ADVANTAGES
+- Q2/Q4: Consistent causal escalation to earned, on‑page closure with visible cost (renunciations, sacrifices, wounds, role shifts) across most pairs (0018, 0026, 0037, 0044, 0064, 0065, 0111, 0193, 0220, 0282, 0341, 0342, 0349, 0365).
+- 9A–9J: Required objects/methods functionally shape tactics and outcomes (keys, coins, sextants, straps, fossils, bolts, watches, ribbons, graffiti codes), rather than appearing as mentions (0044, 0064, 0180, 0199, 0216, 0280, 0302).
+- Q3: Settings actively constrain decisions (greenhouses, observatories, silos, orchards, caves, gondolas), supplying physical limits that charge beats and endings (0037, 0044, 0064, 0140, 0216, 0220, 0341, 0342).
+- Q5: Higher originality and image systems that recur and transform (glass/frost/breath; ledger/asymptote; loom/weave; coin→thread→curtain), yielding fresh mechanics that reprice themes (0018, 0037, 0065, 0199, 0280, 0302).
+- Q6: Thematic cohesion via reconfiguration (control→stewardship; memory vs. oblivion; mercy as limit; reciprocity; truth composted), with endings that reframe the premise rather than affirm it (0018, 0026, 0199, 0201, 0230, 0365).
+- Q7/Q8: Distinct voice with rhythmic modulation (short declaratives at hinge moments; syntactic variety) and precise diction; imagery advances plot, not just mood (0037, 0044, 0064, 0280, 0342).
+- Q1: Motivations are enacted under pressure (protect, translate, seed within constraint) and evidenced through choices rather than assertions (0065, 0193, 0220, 0267).
+- Q9 (tone): Maintains charged but controlled tonal registers (“velveteen gloom,” “frostbitten hope,” “dusty starlight”) enacted by scene mechanics, not slogans (0064, 0267, 0341).
+
+RUBRIC: B ADVANTAGES
+- Q2/Q7: Immediate orientation and low cognitive load; roles, goals, and premises are clearly stated up front (0026, 0044, 0064, 0111, 0140).
+- 9F: Method is plainly declared and easy to visualize (workshop repair steps, predictive inputs, rope descent/device GUI, coin molds/plaster) (0018, 0065, 0282, 0342).
+- Q6: Tonal steadiness and gentle cadence; consistent, contemplative flow without register spikes (0026, 0037, 0064, 0111).
+- Q1: Motivation and external frame are explicit (community service, inspectors’ terms, guardianship), aiding quick comprehension (0018, 0142, 0220).
+- Q3: Spatial orientation is simple and linear; scene-to-scene continuity is reliable even when stakes stay soft (0144, 0282, 0342).
+- 9H: Temporal scaffolding tends to be direct (deadlines, day sweeps, monthly resets), minimizing timeline ambiguity (0064, 0280).
+- Closure style: Offers tidy or hopeful end states that some readers prefer (communal epilogues, “ongoing navigator,” peaceful awakenings) (0018, 0037, 0282).
+
+RUBRIC: SHARED STRENGTHS
+- Early orientation and single close focalization with stable POV; head‑hopping avoided across the board.
+- Required elements are consistently present and on page; both hit timeframe cues reliably.
+- Genre fluency in slipstream/fabulist/speculative modes; ritualized work and accumulative lenses recur.
+- Earnest tonal palette with minimal humor, generally matching the premises.
+- Sensory motif reuse (glass, orchards, fog, caves, silos) to support atmosphere.
+
+RUBRIC: FAILURE MODES
+- B more: Expository telling and cliché drift (“core concept,” “purpose fulfilled,” “bridge between worlds”); themes are stated rather than discovered (0018, 0037, 0140, 0142).
+- B more: Cost-light or coincidence-aided closures; pressure asserted rather than stress‑tested (0026, 0044, 0055, 0064, 0111, 0193, 0199, 0220).
+- B more: Tokenized element use; methods/objects named without materially constraining decisions (0044, 0064, 0144, 0280, 0302, 0341).
+- B more: Syntactic isochrony and repetitive frames flatten volta energy; late beats read monotone (0018, 0037, 0064, 0111, 0142).
+- A more: Occasional over-dense or ornate prose risks brief opacity/purple edges; a few mechanics rely on inference (0026, 0037, 0302).
+- A more: Truncations/typos appear in a handful of endings, denting polish and closure cadence (0018 minor line, 0140, 0216, 0396, 0302).
+- Both at times: Large-scale magic with low resistance; obstacles aesthetic rather than antagonistic in select pieces (0280).
+
+BEYOND‑RUBRIC INSIGHTS
+The dominant divergence is risk posture: A favors ambitious, reconfiguring conceits that embed ethics in mechanics and accept visible prices; B opts for clarity, comfort, and epilogue assurance, prioritizing reader legibility over friction. A’s cultural textures surface through concrete micro-details; B often leans generic-fantasy or procedural shorthand. Cadence differs: A modulates for voltas; B keeps a lulling, even rhythm.
+
+BEYOND: DISTINCTIVES FOR A
+- Risk appetite is high: accepts paradox, renunciation, or personal loss to secure thematic integrity (0018, 0193, 0342).
+- Image systems that evolve across beats (ledger→polygraph→asymptote; coin→thread→curtain) create felt logic without exposition (0201, 0280).
+- Ethical nuance: complicates triumph narratives (stewardship over control; remembrance that cannot be weaponized; refusal of unpaid labor) (0018, 0184, 0193).
+- Cultural specificity flashes through grounded details (seed packets, soup circle, guava/breadfruit, craft lexicons) (0064, 0142, 0218, 0393).
+- Cadence design: short shock lines punctuate lyric runs to mark decision beats and escalate (0037, 0341, 0365).
+
+BEYOND: DISTINCTIVES FOR B
+- Genre comfort and accessibility: reads like clear procedural/parable fiction with approachable scaffolding (device legends, rope descents, mentor frames) (0282, 0342).
+- Sentiment-forward resolutions (community uplift, “only beginning,” hidden valleys) emphasize reassurance over ambiguity (0018, 0220).
+- Broader world hints via offstage institutions (apprentices, councils, inspectors) that expand scope without deep on-page complication (0111, 0142).
+- Even-keeled diction and steady pacing; few sharp tonal pivots, supporting a meditative experience (0037, 0064).
+- Clean method declarations and stepwise plans that some readers will find soothing and legible (0018, 0065, 0282).
+
+BOUNDARIES (When A/B does better)
+- A excels when the brief demands: costed closure; elements as operative constraints; settings that function as engines; original mechanics that reprice the theme.
+- A also suits readers open to lyrical density and hybrid causal/accumulative lenses with ethical complication.
+- B excels when the brief prioritizes: fast orientation; plainly stated methods; gentle, consistent tone; linear scaffolding with low inference load.
+- B also suits readers seeking tidy, hopeful resolutions and minimal scene-level risk, or pedagogic explanations of the method.
+
+RECOMMENDATIONS FOR A
+- Ensure endings are complete and line-edited; eliminate truncations/typos to preserve earned resonance.
+- Trim or clarify the densest metaphor clusters at hinge beats; teach one rule before bending it.
+- Surface one or two concrete counterpressures earlier to preempt plausibility strain when the system turns.
+- Convert occasional declaratives of motive into micro-actions to avoid on-the-nose lines.
+- Maintain the cadence variety but guard against purple stacking at climaxes.
+
+RECOMMENDATIONS FOR B
+- Replace thesis statements with dramatized beats; let images and consequences carry theme.
+- Raise on‑page stakes and introduce costs that narrow options; avoid coincidence-aided solutions.
+- Make required elements function as constraints and tools that force pivots, not just props.
+- Cut clichés and vary sentence shapes to create volta energy; favor specific, local textures over generic labels.
+- Keep method clarity, but couple it with scene resistance and tactical adjustments.
+
+FINAL VERDICT
+Overall, kimi-k2-0905 better fulfills the rubric by interlocking elements, setting, and motive into costed causal closures with original image systems, while glm-4-5 offers clearer, gentler reads that favor exposition and low-pressure endings.

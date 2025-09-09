@@ -1,0 +1,78 @@
+Kimi K2-0905 (A) vs GPT-5 (medium reasoning) (B)
+RUBRIC‑ALIGNED OVERVIEW
+Across the set, A more often delivers decisive, costed closures driven by objects/methods under setting constraints, with bolder image systems and higher risk appetite. B more consistently sustains a clean causal scaffold and method plausibility with controlled lyricism, ethical nuance, and communal reconfiguration, though it tends to under‑pressurize stakes.
+
+RUBRIC: A ADVANTAGES
+- Q2/Q4: More frequent because/therefore chains to an on‑page decisive act with tangible cost (sacrifice/renunciation, role transfer, object loss).
+- Q3/9G: Environments actively constrain tactics (ladders, arches, viaduct polarity, grotto acoustics), staging beats and charging final images.
+- 9B/9F: Objects and methods are functional levers, not ornaments (e.g., seed/diamond/compass/kaleidoscope as tools across multiple beats).
+- Q6/9C: Thematic motifs recur and transform (silence→song; ring/spiral→choice), culminating in revalued closures.
+- Q5/Q8: High originality in image‑systems (metamorphic chains: shell→doorway, arrow tip→stylus→striker) with memorable set‑pieces.
+- Q1/9I: Motivation threads into the final decision (debt/atonement, “teach vanishing,” “unyoke the coast”), not just stated.
+- 9H: Temporal rules are operative (hinges’ three‑note, eclipse windows, night freezes, countdowns) gating action.
+- Q7: Scene mechanics remain legible under lyricism in many pieces; dialogue used sparingly to turn stakes.
+
+RUBRIC: B ADVANTAGES
+- Q2: Clearer procedural scaffolding and scene logic; stepwise plans resolve without ambiguity (method → test → pivot → outcome).
+- 9F/9E: Methods are taught and applied on page (tuning/echo counting, knot/rope catalogs, rest‑denoting, lens/atlas set‑ups) with consequence.
+- Q7/Q8: Steadier, cleaner voice and syntactic control; aphorisms and metaphors are fresh and readable without over‑decoration.
+- Q6: Ethical/thematic nuance threaded into behavior (consent, stewardship, patience over spectacle; “guidance ≠ control”).
+- Q3/9G: Spatial choreography and tool ecology (stations, rigs, bowls, mirrors, ropes) keep tactics plausible and grounded.
+- 9J: Tone discipline across registers (hush, auroral sorrow, somber marvel) with minimal melodrama; communal warmth without sentimentality.
+- Q1/9D/9I: Traits and motives are embodied (attentively inventive, patiently curious) in choices and protocols, not labels.
+- 9A–J breadth: Cohesive integration of elements across civic/social frames (councils, crews, classrooms), widening stakes beyond the self.
+
+RUBRIC: SHARED STRENGTHS
+- Early orientation (who/where/when within ~2–3 paragraphs) and single‑POV stability.
+- High originality and motif discipline; recurring images are reused with new functions.
+- Methods/objects rarely tokenized; both make them operative to discovery or change.
+- Tone control: reverent hush/quiet wonder carried without bathos; humor used lightly to vent pressure.
+- Setting specificity supports atmosphere and often constrains choice.
+
+RUBRIC: FAILURE MODES
+- A: Over‑ornament/purple density and abstraction loops that blur causal steps at peaks.
+- A: Occasional convenience/mystic fiat (late rule reveals) and a few truncated endings undercutting closure/cost.
+- A: Tells theme/motive on‑the‑nose in places, and repeats key diction, softening subtext.
+- B: Soft external stakes and low‑cost closures; resolutions hinge on neat consent/persuasion with minimal jeopardy.
+- B: Aphoristic didacticism that flattens scene texture; “thesis lines” sometimes replace dramatization.
+- B: Elements sometimes remain conceptual rather than constraint‑bearing (objects symbolic more than tactical).
+
+BEYOND‑RUBRIC INSIGHTS
+A’s hallmark is transformational spectacle underwritten by object/method choreography—bold metamorphoses that reprice world‑rules at the decisive beat. B’s hallmark is procedural lyricism—clear, humane systems thinking that reframes power and care within plausible craft and community practice.
+
+BEYOND: DISTINCTIVES FOR A
+- High risk appetite: embraces irreversible sacrifices and mythic mechanics (self‑becoming archive/pane/bridge‑song).
+- Image‑engineering: metamorphic chains (seed→orchard; whisper→map→doorway) give pattern‑logic without exposition.
+- Charged final tableaux that linger (dust‑circle relics; ribbon of dawn; bell struck “beyond sound”).
+- Pressure via countdowns and hinge‑rules (hinges’ notes, eclipse, minute‑windows) that stage voltas.
+- Hybrid DC/RR closures: decisive change coupled with resonant repricing of ethic.
+
+BEYOND: DISTINCTIVES FOR B
+- Craft realism: tool lexicons and protocols read lived‑in (rope/knots, bowls/reeds, mirrors/angles), elevating plausibility.
+- Communal dramaturgy: pairings, councils, crowds, or classes convert insight into social practice.
+- Ethical reframing over conquest (consent, restraint, stewardship), often with gentle wit.
+- Refrains and aphorisms provide teachable heuristics (“patience is not passivity,” “guidance ≠ control”) that map to action.
+- Accumulative RR closures: poised, ongoing practice rather than singular rupture.
+
+BOUNDARIES (When A/B does better)
+- A excels when the brief demands a decisive, paid‑for transformation driven by an object/method under tangible constraints, and when a striking final image must carry thematic weight.
+- A also suits set‑pieces requiring countdowns/hinge‑moments and metamorphic revaluation of motif systems.
+- B excels when clarity, plausibility, and method pedagogy matter—procedural scenes, civic/communal stakes, and ethics‑of‑care outcomes.
+- B also suits briefs seeking understated, durable reconfiguration through protocols and social choreography rather than spectacle.
+
+RECOMMENDATIONS FOR A
+- Trim ornamental redundancy at peak beats; let actions carry the turn and save one strong metaphor per hinge.
+- Surface constraint earlier (rules, limits) to avoid last‑minute fiat; foreshadow mechanics you intend to cash.
+- Replace tell‑lines with micro‑decisions or sensory checks that imply the thesis.
+- Guard against closure truncations; ensure cost and consequence are textually sealed.
+- Vary pressure sources (not only countdown or sacrifice) to diversify dramatic texture.
+
+RECOMMENDATIONS FOR B
+- Sharpen pressure by adding a single hard constraint or timed hinge that forces a narrowed choice.
+- Convert aphoristic insights into scene tasks; let a small failure or trade register the price.
+- Where objects are symbolic, add one tactical function that changes options in the moment.
+- Balance communal poise with one concrete loss or renunciation to deepen aftertaste.
+- Prune thesis statements; trust the procedural and social beats to argue the ethic.
+
+FINAL VERDICT
+Choose A when you need costed, transformation‑driven narratives with high‑impact images and activated elements; choose B when you need lucid, humane, method‑forward storytelling that reframes systems and community with disciplined lyricism.

@@ -1,0 +1,76 @@
+Mistral Medium 3.1 (A) vs GPT-5 (medium reasoning) (B)
+RUBRIC‑ALIGNED OVERVIEW
+Across the set, A most often excels at kinetic escalation, decisive on‑page turns, and concrete cost at closure, with clean spatial choreography and filmable beats. B more consistently integrates the required elements into functioning engines of causality and craft, teaches its methods on the page, and sustains an ethically coherent, precise voice; its closures skew resonant reconfiguration with gentler costs.
+
+RUBRIC: A ADVANTAGES
+- Q2/Q4: Delivers clearer because/therefore arcs toward decisive acts (smash, turn, leap, bury), with visible on‑page prices (arrest, dissolution, sacrifice, renunciation).
+- Q3: Keeps scene geography legible under pressure (workshops, vaults, bridges, towers); environment constrains choice at the moment of action.
+- Q2: Anchors who/where/when early; single‑scene windows are easy to follow at speed.
+- Q6: Thematic turns land as embodied reversals (curse→cure, walls→doors, witness→work) rather than abstract statements.
+- 9B/9E: Objects become catalytic levers (pendant, seed, prism, bolt, ledger); pivotal actions operate on them and reprice the world.
+- Q8: Image systems recur and transform (thread/loom, hush/beam, ladder/key) to charge closure imagery.
+- Q5: Mythic/spectacle ambition (citywide shifts, aurora‑woven bridges, statues melting) yields memorable set pieces.
+- 9H: Timeframes frequently function as ticking gates (dawn, perigee, two lifts of fog), tightening decision windows.
+
+RUBRIC: B ADVANTAGES
+- 9A–J: Superior breadth/depth of element integration; methods and attributes are enacted stepwise (maps, bells, mirrors, rings, taste/tap codes) and alter tactics and outcomes.
+- Q2/Q4: Causal scaffolding is tight (discover→diagnose→intervene→result), with clean procedural beats and few hand‑waved links.
+- Q3/9G: Settings operate as systems (civic grids, archives, gantries, gardens) that constrain routes, timing, and choices.
+- Q6: Thematic cohesion is braided across motifs (edges/pressure; ledger/lullaby; hinge/door), with ethical nuance (restraint, stewardship, consent) kept off‑slogan.
+- Q7/Q8: Voice is precise, rhythmically controlled, and original; aphorisms usually serve action; jargon is minimal and intelligible.
+- Q1/9I: Motivations are specific and borne out behaviorally (teach, repair, translate, convene); stakes extend from self to community without melodrama.
+- 9F/9E: Methods teach themselves on the page (calibration, counting rests, edge geometry, thresholds), yielding learnable rule‑sets the closure honors.
+- 9H: Time is used as process (refrains, floors, seasons, quorums), not just a deadline tag, shaping cadence and decision logic.
+
+RUBRIC: SHARED STRENGTHS
+- Q2: Early orientation and stable focalization; both avoid head‑hopping and keep scene-time intact.
+- Q6/9J: Consistent lyrical tone (hush/quiet awe) sustained without snark; sentiment generally controlled.
+- 9B: Objects recur as more than props (shells, shards, bells, needles, rings); each colors beats and final images.
+- Q5: Fresh metaphor fields (cartography/music, weather/attention, textiles/ethics) recur coherently across pieces.
+- Q3: Sensory settings are textured and purposeful (harbors, ridges, archives, orchards); atmosphere supports function, not just mood.
+
+RUBRIC: FAILURE MODES
+- A: Soft causality at peak moments (convenient revelations; magic resolves) and method/trait asserted rather than shown.
+- A: Sentimentality/aphoristic generalities at closure (“not an end… a beginning”) blur cost and reduce originality.
+- A: Familiar trope skeletons appear (mysterious guide, instant conversions), lowering novelty headroom.
+- B: Lower external pressure; many closures underprice cost (gentle RR), leaving some arcs feeling low‑temperature.
+- B: Aphoristic or didactic lines surface (“my method is… / I am…”) that momentarily tell theme or trait.
+- B: Metaphor density can verge on over‑ornament, risking brief opacity or softened stake clarity.
+
+BEYOND‑RUBRIC INSIGHTS
+A’s risk posture favors kinetic spectacle and sacrificial pivots; it reads cinematic and mythic, often betting the story on a single charged hinge. B’s risk posture favors procedural, civic ethics and systems thinking; it scales intimacy to communal practice and privileges rule‑teaching over coup‑de‑théâtre, with a steadier, more distinctive sentence music and quiet wit.
+
+BEYOND: DISTINCTIVES FOR A
+- Spectacle-first turns (bridges woven from light; statues liquefy; cities re‑tuned) deliver high memorability.
+- Decisive self‑risk as moral currency (dissolve, shatter, leap, burn) centers embodied cost.
+- Cinematic blocking and crisp beats (“Show me how to jump,” “Unsnap,” “He went.”) drive momentum.
+- Negative space as closure tool (renunciation, letting objects/roles go) produces clean moral pivots.
+- Recurring incantatory cadence (short volta lines punctuating long swells) cues hinge moments.
+
+BEYOND: DISTINCTIVES FOR B
+- Procedural lyricism (counting rests, edge geometry, tuning, braiding) turns poetics into operating manuals.
+- Ethical restraint (consent over conquest; repair over reveal; mercy as calibration) yields mature endings.
+- Communal dramaturgy (councils, villagers, crowds) replaces lone-hero arcs with choreographed systems.
+- World texture via micro‑tools and trades (mirrors, bells, cords, charts, ledgers) grounds the fabulous.
+- Subtle wit and humane phrasing relieve density without breaking tone.
+
+BOUNDARIES
+- When A does better: high‑stakes, single‑set‑piece problems needing a visceral, costly, on‑page act; briefs that prize cinematic imagery and a pinpointable turn.
+- When B does better: assignments that demand method‑driven problem solving, civic or relational choreography, and demonstrable integration of every required element into choices and outcomes.
+
+RECOMMENDATIONS FOR A
+- Tighten causal mechanics at the hinge; show how the method works under constraint instead of asserting it.
+- Trim slogan‑like closures; let images and consequences carry the turn.
+- Push novelty in object systems to avoid familiar mystical beats; ground big moves with one concrete rule.
+- Seed external counter‑pressure earlier so cost isn’t only interior.
+- Balance incantation with specificity during peaks to preserve pressure clarity.
+
+RECOMMENDATIONS FOR B
+- Raise on‑page jeopardy and price the reconfiguration: introduce a concrete sacrifice or closed door at the end.
+- Pare back self‑defining aphorisms; let behavior establish trait and thesis.
+- Watch metaphor stacking at pivots; keep one operative image doing the work.
+- Avoid convenience resolutions (easy conversions, frictionless approvals); show at least one hard “no.”
+- Occasionally choose a sharper decisive beat to complement the prevailing RR cadence.
+
+FINAL VERDICT
+Overall, B edges A by more consistently turning the required elements into operative systems that drive causal, ethically coherent outcomes, while A excels at visceral, costly turns but too often softens mechanics and leans on familiar incantations.

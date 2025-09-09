@@ -1,0 +1,75 @@
+Claude Opus 4.1 (no reasoning) (A) vs GPT-5 (medium reasoning) (B)
+RUBRIC‑ALIGNED OVERVIEW
+Across the set, A most consistently delivers clear causal spines with legible stakes, on‑page decisions, and element use that drives outcomes; B most consistently offers distinctive voice, fresh image‑systems, and deeper motif/thematic integration, though often at the expense of hard pressure and explicit cost.
+
+RUBRIC: A ADVANTAGES
+- Orientation and spatial choreography are reliably crisp within the first ~120 words; who/where/when and the problem frame are seldom ambiguous (Q2, Q3).
+- Causal escalation is clearer: because/therefore chains tighten options and culminate in decisive, on‑page choices with visible consequences (Q4, Q2).
+- Element functionality is concrete: objects/tools (pendants, shards, clocks, bells, coins) are used to effect change rather than stay symbolic (9B, 9E, 9F).
+- Timeframe signals (dawn pulses, frost windows, countdowns, phases) meaningfully constrain tactics and cadence (9H).
+- Motivation is explicitly threaded and enacted (e.g., preserve/repair/translate → concrete acts and stances), avoiding mere attitudinal claims (Q1, 9I).
+- Settings act as mechanisms or constraints (vaults, orchards, trains, stations), not just backdrops; environment shapes tactics and closure (Q3, 9G).
+- Thematic throughlines resolve into clear reconfigurations (reframe neutrality, humility, mercy, guardianship) that leave a changed situation (Q6).
+- Tone discipline favors clarity and restraint; reflection usually stays tied to present action (Q7).
+
+RUBRIC: B ADVANTAGES
+- Voice and line craft are consistently more original and musically controlled, with fresh metaphors and rhythmic voltae that carry momentum (Q7, Q8).
+- Motif architecture is denser and transformative: recurring images (breath/light/rope/bells/ledger) evolve functionally across beats (Q6).
+- Thematic cohesion is tighter: ethical arguments (care over mastery, stewardship, consent, patience) are enacted through procedures and ritual logic (Q6, 9C).
+- Element integration is often multi‑valent: objects operate as tools, symbols, and cadence setters within one scene (9A–9J breadth).
+- Settings are texturally vivid and socially textured; micro‑world procedures (beacons, watch shifts, bell codes, archives, rigging) feel lived‑in and steer action (Q3, 9G).
+- Ethical and epistemic nuance is higher: reframes of truth/forgiveness/safety/mercy avoid binaries and land as practice, not slogans (Q5–Q6).
+- Accumulative lenses are handled with confidence: layered ritual/procedure escalates pressure texturally to resonant reconfigurations (Q4 with accumulative bias).
+
+RUBRIC: SHARED STRENGTHS
+- Both integrate the required method element on the page (e.g., frost reading, hopscotch codes, starling patterns, tea‑leaf geometry, chime grammar) rather than name‑drop.
+- Both reliably keep POV/focalization steady and avoid head‑hopping, even in lyric passages (Q7).
+- Both sustain coherent tonal briefs (hush/ache/reserved wonder) across scenes without melodrama (Q6, 9J).
+- Both use ritualized objects as recurring catalysts (pendants, bells, coins, lenses) and return them at closure for charged images (9B).
+- Both credibly couple motivation to behavior (mending/teaching/listening/guiding becomes the engine of scenes) (Q1, 9I).
+
+RUBRIC: FAILURE MODES
+- A: Expository compression and didactic statements (“truth is…,” “beauty is…”) flatten subtext and reduce discovery at peak beats (Q8).
+- A: Convenience and low-cost resolutions (instant validations, soft antagonists, off‑screen consequences) undercut pressure and earnedness (Q2, Q4).
+- A: Familiar genre scaffolding (mentor keys, constellations as maps, “rewrite textbooks”) can blunt originality (Q5).
+- B: Softer stakes and under‑pressurized climaxes (talk‑led turns, quick conversions, conceptual poise) leave closures less costed (Q4, Q2).
+- B: Metaphor/purple density occasionally veils mechanics or spatial logic; readers must infer linkages (Q7, Q3).
+- B: Element names sometimes appear as aphoristic labels before being dramatized (occasional 9D/9E tell‑curves).
+
+BEYOND‑RUBRIC INSIGHTS
+Beyond rubric axes, the clearest split is design philosophy: A privileges procedural legibility and decisional clarity (often “plot‑first”), while B privileges system poetics—turning tools and settings into ethical grammars—with higher stylistic risk. A reliably services readers seeking firm cause–effect; B rewards readers seeking pattern‑driven resonance and sentence‑level pleasure.
+
+BEYOND: DISTINCTIVES FOR A
+- Procedural SF/fable fluency: countdowns, constraints, and tool chains (fork→frequency→door; chip→bargain→tether) are satisfying and filmable.
+- Civic stakes often explicit (councils, audits, sanctions, start‑ups), giving institutional plausibility without jargon dumps.
+- Closure images tend to be clean and emblematic (lit beacons, etched codicils, re‑lit lamps, open doors), offering crisp after‑images.
+- Intergenerational throughlines (grandparent tools, mentor devices) serve as concrete motive engines.
+- Quiet competence tone: protagonists act, adjust, and accept cost; minimal rhetorical flourish keeps focus on outcomes.
+
+BEYOND: DISTINCTIVES FOR B
+- Ethical craft‑poetics: methods are recast as care systems (hinges, listening, braids, patience), converting theme into working ritual.
+- Micro‑humor and idiomatic turns (“storms behave like creditors,” “teach the wind manners”) humanize the lyric without puncturing mood.
+- Social design: beacons/watch shifts/public trials/garden rules embed change in communal choreography.
+- Image–mechanism alignment: metaphors become mechanisms (pane of hush, ledger of breaths, coin as meter), not just decoration.
+- Negative space endings: charged poise beats (seed left, bell codes, corridor kept) privilege responsibility over triumph.
+
+BOUNDARIES (When A/B does better)
+- A is preferable when a scene needs: tight orientation and choreographed action; tool‑driven fixes with explicit constraints; decisive, costed choices with visible external stakes.
+- B is preferable when a scene needs: a distinctive voice and layered motif web; ethical/epistemic nuance enacted as practice; a setting that doubles as investigative apparatus or covenant.
+
+RECOMMENDATIONS FOR A
+- Replace summary thesis lines with image‑taught turns; let procedures and consequences demonstrate theme.
+- Deepen on‑page resistance and cost: stage at least one failure beat or counter‑force before the turn.
+- Trim familiar genre shortcuts; swap stock metaphors for domain‑specific, evolving images tied to your mechanism.
+- Keep institutional stakes but dramatize deliberation/fallout rather than asserting outcomes.
+- When using timeframes, let them force tradeoffs (drop one goal to meet the clock) to heighten torque.
+
+RECOMMENDATIONS FOR B
+- Introduce one concrete constraint or risk beat per act to harden escalation under the lyric; avoid frictionless conversions.
+- Audit metaphor density at hinges; ensure one clean causal thread remains visible through the image‑storm.
+- Where you state an attribute/ethic, stage a behavior that proves it before or immediately after the line.
+- Make at least one element (object/timeframe/method) physically alter options in the moment to balance poise with consequence.
+- Preserve the voice’s music but vary sentence shape around decision beats for sharper volta impact.
+
+FINAL VERDICT
+If you want reliably legible, element‑driven stories with decisive, costed turns, choose A; if you want vivid, original prose with layered thematic systems and ritualized ethics, choose B.
