@@ -400,6 +400,8 @@ This is **not** a quality grade. It complements quality by showing range.
 ---
 ## Head-to-head comparisons
 
+Below are A‑vs‑B analyses for stories written to the same required elements. Each report separates rubric‑aligned differences (Q1–Q8 craft + 9A–9J element integration) from beyond‑rubric insights (e.g., risk appetite, humor timing, cultural specificity).
+
 - [Grok 4 (A) vs GPT-5 Medium (B)](inter_llm_comparison_summaries/grok-4-0709__vs__gpt-5-medium.txt)
 - [Kimi K2-0905 (A) vs Qwen 3 Max Preview (B)](inter_llm_comparison_summaries/kimi-k2-0905__vs__qwen3-max-preview.txt)
 - [Kimi K2-0905 (A) vs DeepSeek V3.1 Reasoner (B)](inter_llm_comparison_summaries/kimi-k2-0905__vs__deepseek-reasoner.txt)
@@ -409,6 +411,9 @@ This is **not** a quality grade. It complements quality by showing range.
 - [Gemini 2.5 Pro (A) vs GPT-5 (medium reasoning) (B)](inter_llm_comparison_summaries/gemini-2.5-pro__vs__gpt-5-medium.txt)
 - [Kimi K2-0905 (A) vs GPT-5 (medium reasoning) (B)](inter_llm_comparison_summaries/kimi-k2-0905__vs__gpt-5-medium.txt)
 
+
+- Rubric‑Aligned: Directly maps to our grading rubric (Q1–Q8 craft; 9A–J element integration), with concrete, falsifiable observations tied to on‑page evidence.
+- Beyond‑Rubric: Additional, non‑graded distinctions (e.g., metaphor layering, syntactic rhythm, idiomatic freshness, genre fluency). These contextualize differences that the rubric doesn’t fully capture.
 
 ---
 
