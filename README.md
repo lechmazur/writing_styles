@@ -418,6 +418,50 @@ Beyond‑Rubric: Additional, non‑graded distinctions (e.g., metaphor layering,
 
 ---
 
+
+## Poor‑writing samples (what goes wrong)  
+The folder `poor_writing/` collects short excerpts where top LLMs trip on continuity, physics, or basic logic. Each file lists the offending lines with a one‑line diagnosis. A few representative snippets:
+
+- GPT‑5 (medium reasoning) — see `poor_writing/gpt-5-medium.txt`
+  - "he hissed without daring a sound." (oxymoron)
+  - "I opened the window, and the world pressed its cheek to the glass." (open window vs. glass)
+  - "Under a fleeting golden sunset … by moonlight, late but exactly on time." (mutually incompatible states)
+
+- Gemini 2.5 Pro — see `poor_writing/gemini-2.5-pro.txt`
+  - "…lunar observatory above the clouds… sunrise over the distant Earth" (no clouds on the Moon; no Earth “sunrise” there)
+  - "He inhaled the thin air that smelled of burnt helium" (helium is odorless and doesn’t burn)
+
+- Claude Opus 4.1 (no reasoning) — see `poor_writing/claude-opus-4-1-20250805-0K.txt`
+  - "She opened it, revealing not ink but ashes—… before beginning the embalming." (ashes don’t precede cremation)
+  - "The gondola swayed gently at thirty thousand feet… rescue helicopters." (helos don’t operate at 30k ft)
+
+Browse the rest in `poor_writing/` for a compact catalog of common failure modes across models.
+
+
+---
+
+## Poor‑writing theme summaries (why it goes wrong)
+The folder `poor_writing_theme_summaries/` distills recurring failure patterns by model—short narratives explaining not just the errors, but the mechanisms behind them. Highlights:
+
+- GLM‑4.5 — see `poor_writing_theme_summaries/glm-4-5.txt`
+  - Sentence‑over‑scene bias: local vividness overwrites prior state (time of day, identities, object states) after soft resets.
+  - Resolution templates over causality: endgame emits outcomes and jargon without bridges; figurative language gets literalized.
+  - Surface rubble under strain: mixed‑script/token leaks and half‑edits at transition points.
+
+- Kimi K2‑0905 — see `poor_writing_theme_summaries/kimi-k2-0905.txt`
+  - Short planning horizon: props teleport/duplicate and tenses flip for cadence; aphorisms override chronology.
+  - Physics optional under lyric pressure: environment/affordances ignored unless rules are restated explicitly.
+  - Numbers/rules used decoratively; occasional truncated lines reveal cadence‑first decoding.
+
+- Qwen 3 Max Preview — see `poor_writing_theme_summaries/qwen3-max-preview.txt`
+  - Absolutes as style, not rules: stated constraints are contradicted by the next striking image (negations, “twin,” “only”).
+  - Local state tracking: objects exist in two places; persona/vehicle traits blend; paragraph breaks act as soft resets.
+  - Expertise veneer without mechanism: precise nouns/numbers and hybrid devices that don’t work in any coherent world.
+
+These writeups pair with `poor_writing/` examples: one shows the symptoms; the other explains the disease.
+
+---
+
 ## Multi-agent benchmarks
 - [PACT - Benchmarking LLM negotiation skill in multi-round buyer-seller bargaining](https://github.com/lechmazur/pact)
 - [BAZAAR - Evaluating LLMs in Economic Decision-Making within a Competitive Simulated Market](https://github.com/lechmazur/bazaar)
