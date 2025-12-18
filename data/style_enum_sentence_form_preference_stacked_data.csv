@@ -1,46 +1,88 @@
 LLM,LLM_Full,cat,cat_full,cat_desc,choice,prop
-grok-4-0709,Grok 4,9,9,,Parataxis,0.0
-llama4-maverick,Llama 4 Maverick,3,3,,Parataxis,0.02
-glm-4-5,GLM-4.5,14,14,,Parataxis,0.0
-qwen3-235b-a22b-thinking-2507,Qwen 3 235B A22B 25-07 Think,6,6,,Parataxis,0.005
+ernie_4_5_300b_a47b,Baidu Ernie 4.5 300B A47B,15,15,,Parataxis,0.0
+claude-opus-4-1-20250805-0K,Claude Opus 4.1 (no reasoning),2,2,,Parataxis,0.0
+claude-opus-4-5-20251101-0K,Claude Opus 4.5 (no reasoning),2,2,,Parataxis,0.0
+claude-sonnet-4-5-20250929-0K,Claude Sonnet 4.5 (no reasoning),2,2,,Parataxis,0.0
+claude-sonnet-4-5-20250929-16K,Claude Sonnet 4.5 Thinking 16K,2,2,,Parataxis,0.0
+command-a,Cohere Command A,13,13,,Parataxis,0.0
 deepseek-v31,DeepSeek V3.1 Non-Think,8,8,,Parataxis,0.0
 deepseek-reasoner,DeepSeek V3.1 Reasoner,8,8,,Parataxis,0.0
+deepseek-v32-exp,Deepseek V3.2 Exp,8,8,,Parataxis,0.005
 gemini-2.5-pro,Gemini 2.5 Pro,4,4,,Parataxis,0.0
-command-a,Cohere Command A,13,13,,Parataxis,0.0
+gemini-3-pro-preview,Gemini 3 Pro Preview,4,4,,Parataxis,0.0
+glm-4-5,GLM-4.5,14,14,,Parataxis,0.0
+glm-4-6,GLM-4.6,14,14,,Parataxis,0.0
+gpt-5-medium,GPT-5 (medium reasoning),1,1,,Parataxis,0.025
+gpt-5-pro,GPT-5 Pro,1,1,,Parataxis,0.0
+gpt-5.1-medium,GPT-5.1 (medium reasoning),1,1,,Parataxis,0.0
+gpt-5.2-medium,GPT-5.2 (medium reasoning),1,1,,Parataxis,0.0
 gpt-oss-120b,GPT-OSS-120B,1,1,,Parataxis,0.0
+grok-4-0709,Grok 4,9,9,,Parataxis,0.0
+grok-4-1-fast-reasoning,Grok 4.1 Fast Reasoning,9,9,,Parataxis,0.0
 kimi-k2,Kimi K2,16,16,,Parataxis,0.0
-claude-opus-4-1-20250805-0K,Claude Opus 4.1 (no reasoning),2,2,,Parataxis,0.0
-ernie_4_5_300b_a47b,Baidu Ernie 4.5 300B A47B,15,15,,Parataxis,0.0
-gpt-5-medium,GPT-5 (medium reasoning),1,1,,Parataxis,0.04
+kimi-k2-thinking,Kimi K2 Thinking,16,16,,Parataxis,0.015
+kimi-k2-0905,Kimi K2-0905,16,16,,Parataxis,0.0
+llama4-maverick,Llama 4 Maverick,3,3,,Parataxis,0.01
+mistral-large-2512,Mistral Large 3,5,5,,Parataxis,0.0
+mistral-medium-2508,Mistral Medium 3.1,5,5,,Parataxis,0.00375
 o3-pro-medium,o3-pro (medium reasoning),1,1,,Parataxis,0.0125
-mistral-medium-2508,Mistral Medium 3.1,5,5,,Parataxis,0.0075
-grok-4-0709,Grok 4,9,9,,Hypotaxis,0.5325
-llama4-maverick,Llama 4 Maverick,3,3,,Hypotaxis,0.555
-glm-4-5,GLM-4.5,14,14,,Hypotaxis,0.4225
-qwen3-235b-a22b-thinking-2507,Qwen 3 235B A22B 25-07 Think,6,6,,Hypotaxis,0.6075
+qwen3-235b-a22b-thinking-2507,Qwen 3 235B A22B 25-07 Think,6,6,,Parataxis,0.005
+qwen3-max-preview,Qwen 3 Max Preview,6,6,,Parataxis,0.0
+ernie_4_5_300b_a47b,Baidu Ernie 4.5 300B A47B,15,15,,Hypotaxis,0.05875
+claude-opus-4-1-20250805-0K,Claude Opus 4.1 (no reasoning),2,2,,Hypotaxis,0.07708553326293559
+claude-opus-4-5-20251101-0K,Claude Opus 4.5 (no reasoning),2,2,,Hypotaxis,0.0
+claude-sonnet-4-5-20250929-0K,Claude Sonnet 4.5 (no reasoning),2,2,,Hypotaxis,0.0
+claude-sonnet-4-5-20250929-16K,Claude Sonnet 4.5 Thinking 16K,2,2,,Hypotaxis,0.0
+command-a,Cohere Command A,13,13,,Hypotaxis,0.17625
 deepseek-v31,DeepSeek V3.1 Non-Think,8,8,,Hypotaxis,0.385
 deepseek-reasoner,DeepSeek V3.1 Reasoner,8,8,,Hypotaxis,0.3825
-gemini-2.5-pro,Gemini 2.5 Pro,4,4,,Hypotaxis,0.3525
-command-a,Cohere Command A,13,13,,Hypotaxis,0.33
-gpt-oss-120b,GPT-OSS-120B,1,1,,Hypotaxis,0.6975
+deepseek-v32-exp,Deepseek V3.2 Exp,8,8,,Hypotaxis,0.05
+gemini-2.5-pro,Gemini 2.5 Pro,4,4,,Hypotaxis,0.18625
+gemini-3-pro-preview,Gemini 3 Pro Preview,4,4,,Hypotaxis,0.065
+glm-4-5,GLM-4.5,14,14,,Hypotaxis,0.27375
+glm-4-6,GLM-4.6,14,14,,Hypotaxis,0.1675
+gpt-5-medium,GPT-5 (medium reasoning),1,1,,Hypotaxis,0.03875
+gpt-5-pro,GPT-5 Pro,1,1,,Hypotaxis,0.0
+gpt-5.1-medium,GPT-5.1 (medium reasoning),1,1,,Hypotaxis,0.0025
+gpt-5.2-medium,GPT-5.2 (medium reasoning),1,1,,Hypotaxis,0.15
+gpt-oss-120b,GPT-OSS-120B,1,1,,Hypotaxis,0.4275
+grok-4-0709,Grok 4,9,9,,Hypotaxis,0.5325
+grok-4-1-fast-reasoning,Grok 4.1 Fast Reasoning,9,9,,Hypotaxis,0.025
 kimi-k2,Kimi K2,16,16,,Hypotaxis,0.2175
-claude-opus-4-1-20250805-0K,Claude Opus 4.1 (no reasoning),2,2,,Hypotaxis,0.12797074954296161
-ernie_4_5_300b_a47b,Baidu Ernie 4.5 300B A47B,15,15,,Hypotaxis,0.1175
-gpt-5-medium,GPT-5 (medium reasoning),1,1,,Hypotaxis,0.0775
+kimi-k2-thinking,Kimi K2 Thinking,16,16,,Hypotaxis,0.015
+kimi-k2-0905,Kimi K2-0905,16,16,,Hypotaxis,0.07
+llama4-maverick,Llama 4 Maverick,3,3,,Hypotaxis,0.35625
+mistral-large-2512,Mistral Large 3,5,5,,Hypotaxis,0.0025
+mistral-medium-2508,Mistral Medium 3.1,5,5,,Hypotaxis,0.01
 o3-pro-medium,o3-pro (medium reasoning),1,1,,Hypotaxis,0.0875
-mistral-medium-2508,Mistral Medium 3.1,5,5,,Hypotaxis,0.02
-grok-4-0709,Grok 4,9,9,,Balanced,0.4675
-llama4-maverick,Llama 4 Maverick,3,3,,Balanced,0.425
-glm-4-5,GLM-4.5,14,14,,Balanced,0.5775
-qwen3-235b-a22b-thinking-2507,Qwen 3 235B A22B 25-07 Think,6,6,,Balanced,0.3875
+qwen3-235b-a22b-thinking-2507,Qwen 3 235B A22B 25-07 Think,6,6,,Hypotaxis,0.6075
+qwen3-max-preview,Qwen 3 Max Preview,6,6,,Hypotaxis,0.0325
+ernie_4_5_300b_a47b,Baidu Ernie 4.5 300B A47B,15,15,,Balanced,0.94125
+claude-opus-4-1-20250805-0K,Claude Opus 4.1 (no reasoning),2,2,,Balanced,0.9229144667370645
+claude-opus-4-5-20251101-0K,Claude Opus 4.5 (no reasoning),2,2,,Balanced,1.0
+claude-sonnet-4-5-20250929-0K,Claude Sonnet 4.5 (no reasoning),2,2,,Balanced,1.0
+claude-sonnet-4-5-20250929-16K,Claude Sonnet 4.5 Thinking 16K,2,2,,Balanced,1.0
+command-a,Cohere Command A,13,13,,Balanced,0.82375
 deepseek-v31,DeepSeek V3.1 Non-Think,8,8,,Balanced,0.615
 deepseek-reasoner,DeepSeek V3.1 Reasoner,8,8,,Balanced,0.6175
-gemini-2.5-pro,Gemini 2.5 Pro,4,4,,Balanced,0.6475
-command-a,Cohere Command A,13,13,,Balanced,0.67
-gpt-oss-120b,GPT-OSS-120B,1,1,,Balanced,0.3025
+deepseek-v32-exp,Deepseek V3.2 Exp,8,8,,Balanced,0.945
+gemini-2.5-pro,Gemini 2.5 Pro,4,4,,Balanced,0.81375
+gemini-3-pro-preview,Gemini 3 Pro Preview,4,4,,Balanced,0.935
+glm-4-5,GLM-4.5,14,14,,Balanced,0.72625
+glm-4-6,GLM-4.6,14,14,,Balanced,0.8325
+gpt-5-medium,GPT-5 (medium reasoning),1,1,,Balanced,0.93625
+gpt-5-pro,GPT-5 Pro,1,1,,Balanced,1.0
+gpt-5.1-medium,GPT-5.1 (medium reasoning),1,1,,Balanced,0.9975
+gpt-5.2-medium,GPT-5.2 (medium reasoning),1,1,,Balanced,0.85
+gpt-oss-120b,GPT-OSS-120B,1,1,,Balanced,0.5725
+grok-4-0709,Grok 4,9,9,,Balanced,0.4675
+grok-4-1-fast-reasoning,Grok 4.1 Fast Reasoning,9,9,,Balanced,0.975
 kimi-k2,Kimi K2,16,16,,Balanced,0.7825
-claude-opus-4-1-20250805-0K,Claude Opus 4.1 (no reasoning),2,2,,Balanced,0.8720292504570384
-ernie_4_5_300b_a47b,Baidu Ernie 4.5 300B A47B,15,15,,Balanced,0.8825
-gpt-5-medium,GPT-5 (medium reasoning),1,1,,Balanced,0.8825
+kimi-k2-thinking,Kimi K2 Thinking,16,16,,Balanced,0.97
+kimi-k2-0905,Kimi K2-0905,16,16,,Balanced,0.93
+llama4-maverick,Llama 4 Maverick,3,3,,Balanced,0.63375
+mistral-large-2512,Mistral Large 3,5,5,,Balanced,0.9975
+mistral-medium-2508,Mistral Medium 3.1,5,5,,Balanced,0.98625
 o3-pro-medium,o3-pro (medium reasoning),1,1,,Balanced,0.9
-mistral-medium-2508,Mistral Medium 3.1,5,5,,Balanced,0.9725
+qwen3-235b-a22b-thinking-2507,Qwen 3 235B A22B 25-07 Think,6,6,,Balanced,0.3875
+qwen3-max-preview,Qwen 3 Max Preview,6,6,,Balanced,0.9675

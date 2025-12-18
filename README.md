@@ -46,21 +46,35 @@ All results reflect models under a neutral, minimally directive prompt; targeted
 ## LLM Diversity Leaderboard (Weighted Gower mean pairwise distance)
 | Rank | LLM                    | Diversity Score |
 |-----:|------------------------|----------------:|
-| 1 | GPT-5 (medium reasoning) | 0.222 |
-| 2 | GLM-4.5 | 0.207 |
-| 3 | Claude Opus 4.1 (no reasoning) | 0.205 |
-| 4 | Kimi K2 | 0.201 |
-| 5 | Qwen 3 235B A22B 25-07 Think | 0.199 |
-| 6 | Gemini 2.5 Pro | 0.197 |
-| 7 | o3-pro (medium reasoning) | 0.195 |
-| 8 | Baidu Ernie 4.5 300B A47B | 0.195 |
-| 9 | Grok 4 | 0.194 |
-| 10 | Mistral Medium 3.1 | 0.192 |
-| 11 | DeepSeek V3.1 Reasoner | 0.191 |
-| 12 | DeepSeek V3.1 Non-Think | 0.191 |
-| 13 | Llama 4 Maverick | 0.185 |
-| 14 | Cohere Command A | 0.180 |
-| 15 | GPT-OSS-120B | 0.174 |
+| 1 | GPT-5 (medium reasoning) | 0.218 |
+| 2 | GPT-5.2 (medium reasoning) | 0.215 |
+| 3 | GPT-5.1 (medium reasoning) | 0.213 |
+| 4 | GPT-5 Pro | 0.213 |
+| 5 | Kimi K2 Thinking | 0.210 |
+| 6 | GLM-4.5 | 0.206 |
+| 7 | Grok 4.1 Fast Reasoning | 0.204 |
+| 8 | Deepseek V3.2 Exp | 0.203 |
+| 9 | Claude Opus 4.1 (no reasoning) | 0.202 |
+| 10 | Kimi K2-0905 | 0.201 |
+| 11 | Kimi K2 | 0.201 |
+| 12 | GLM-4.6 | 0.200 |
+| 13 | Qwen 3 235B A22B 25-07 Think | 0.199 |
+| 14 | Claude Sonnet 4.5 Thinking 16K | 0.197 |
+| 15 | Mistral Large 3 | 0.195 |
+| 16 | Claude Sonnet 4.5 (no reasoning) | 0.195 |
+| 17 | o3-pro (medium reasoning) | 0.195 |
+| 18 | Grok 4 | 0.194 |
+| 19 | Baidu Ernie 4.5 300B A47B | 0.194 |
+| 20 | Gemini 2.5 Pro | 0.193 |
+| 21 | Gemini 3 Pro Preview | 0.193 |
+| 22 | Mistral Medium 3.1 | 0.191 |
+| 23 | DeepSeek V3.1 Reasoner | 0.191 |
+| 24 | DeepSeek V3.1 Non-Think | 0.191 |
+| 25 | Claude Opus 4.5 (no reasoning) | 0.189 |
+| 26 | Llama 4 Maverick | 0.183 |
+| 27 | Qwen 3 Max Preview | 0.183 |
+| 28 | Cohere Command A | 0.178 |
+| 29 | GPT-OSS-120B | 0.171 |
 
 
 ### How diversity is computed
@@ -478,6 +492,7 @@ These writeups pair with `poor_writing/` examples: one shows the symptoms; the o
 - [LLM Divergent Thinking Creativity Benchmark](https://github.com/lechmazur/divergent/)
 
 ## Updates
+- Dec 18, 2025: New frontier LLMs added
 - Sep 8, 2025: Head-to-head comparisons added
 
 ## More

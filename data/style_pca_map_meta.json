@@ -1,0 +1,11 @@
+{
+  "pc1_variance_explained": 0.2525449756798397,
+  "pc2_variance_explained": 0.1681016591316836,
+  "dropped_features": [
+    "register_level__Colloquial",
+    "pov_person__Second",
+    "sensory_bias__Minimal",
+    "motif_strategy__None",
+    "genre_family__Comic"
+  ]
+}
